@@ -1,0 +1,74 @@
+﻿@model db.bks_BookStockDetail
+
+@{
+	ViewBag.Title = "Insert";
+}
+
+@using (Html.BeginForm()) 
+{
+    @Html.AntiForgeryToken()
+	@Html.ValidationSummary(true)
+    
+	<div class="dialog">
+        <div class="editor-label">
+			@Html.LabelFor(model => model.stockCode)
+		</div>
+		<div class="editor-field read">	
+			@Html.EditorFor(model => model.stockCode)
+			@Html.ValidationMessageFor(model => model.stockCode)
+        </div>
+
+        <div class="editor-label">
+			@Html.LabelFor(model => model.detailNo)
+		</div>
+		<div class="editor-field">	
+			@Html.EditorFor(model => model.detailNo)
+			@Html.ValidationMessageFor(model => model.detailNo)
+        </div>
+
+        <div class="editor-label">
+			@Html.LabelFor(model => model.bookCode)
+		</div>
+		<div class="editor-field">	
+			@Html.EditorFor(model => model.bookCode)
+			@Html.ValidationMessageFor(model => model.bookCode)
+        </div>
+
+        <div class="editor-label">
+			@Html.LabelFor(model => model.quantity)
+		</div>
+		<div class="editor-field">	
+			@Html.EditorFor(model => model.quantity)
+			@Html.ValidationMessageFor(model => model.quantity)
+        </div>
+
+        <div class="editor-label">
+			@Html.LabelFor(model => model.sellQuantity)
+		</div>
+		<div class="editor-field">	
+			@Html.EditorFor(model => model.sellQuantity)
+			@Html.ValidationMessageFor(model => model.sellQuantity)
+        </div>
+
+        <div class="editor-label">
+			@Html.LabelFor(model => model.price)
+		</div>
+		<div class="editor-field">	
+			@Html.EditorFor(model => model.price)
+			@Html.ValidationMessageFor(model => model.price)
+        </div>
+
+        <div class="editor-label">
+			@Html.LabelFor(model => model.remark)
+		</div>
+		<div class="editor-field">	
+			@Html.EditorFor(model => model.remark)
+			@Html.ValidationMessageFor(model => model.remark)
+        </div>
+
+        <p class="button">
+            <a class="billSave opSave" data-close="true">保存</a>
+            <a class="opClose">关闭</a>
+        </p>
+    </div>
+}

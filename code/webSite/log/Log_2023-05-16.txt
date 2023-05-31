@@ -1,0 +1,53 @@
+2023-05-16 09:22:48.9452 Error Store update, insert, or delete statement affected an unexpected number of rows (0). Entities may have been modified or deleted since entities were loaded. See http://go.microsoft.com/fwlink/?LinkId=472540 for information on understanding and handling optimistic concurrency exceptions.
+------------begin-------------
+   在 System.Data.Entity.Internal.InternalContext.SaveChanges()
+   在 db.bll.bks_bookStockDetail.update(bks_BookStockDetail entry, dbEntities dc) 位置 G:\大三下学期\.Net项目实训\2022版本\MVC5开发框架 - 给学生0511 进货增删改\MVC5开发框架 - 给学生\code\dbLibrary\bll\book\bks_bookStockDetail.cs:行号 71
+   在 web.Areas.admin.Controllers.bks_BookStockDetailController.Update(bks_BookStockDetail model) 位置 G:\大三下学期\.Net项目实训\2022版本\MVC5开发框架 - 给学生0511 进货增删改\MVC5开发框架 - 给学生\code\WebSite\Areas\admin\Controllers\bks_BookStockDetailController.cs:行号 90
+------------End-------------
+ 
+2023-05-16 09:22:48.9532 Error Store update, insert, or delete statement affected an unexpected number of rows (0). Entities may have been modified or deleted since entities were loaded. See http://go.microsoft.com/fwlink/?LinkId=472540 for information on understanding and handling optimistic concurrency exceptions.
+------------begin-------------
+   在 System.Data.Entity.Core.Mapping.Update.Internal.UpdateTranslator.ValidateRowsAffected(Int64 rowsAffected, UpdateCommand source)
+   在 System.Data.Entity.Core.Mapping.Update.Internal.UpdateTranslator.Update()
+   在 System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   在 System.Data.Entity.Core.Objects.ObjectContext.SaveChangesToStore(SaveOptions options, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction)
+   在 System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.Execute[TResult](Func`1 operation)
+   在 System.Data.Entity.Core.Objects.ObjectContext.SaveChangesInternal(SaveOptions options, Boolean executeInExistingTransaction)
+   在 System.Data.Entity.Internal.InternalContext.SaveChanges()
+------------End-------------
+ 
+2023-05-16 10:53:12.9130 Error Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+------------begin-------------
+   在 System.Data.Entity.Internal.InternalContext.SaveChanges()
+   在 db.bll.bks_bookStockDetail.insert(bks_BookStockDetail entry, dbEntities dc) 位置 G:\大三下学期\.Net项目实训\2022版本\MVC5开发框架 - 给学生0511 进货增删改\MVC5开发框架 - 给学生\code\dbLibrary\bll\book\bks_bookStockDetail.cs:行号 58
+   在 web.Areas.admin.Controllers.bks_BookStockDetailController.Insert(bks_BookStockDetail model) 位置 G:\大三下学期\.Net项目实训\2022版本\MVC5开发框架 - 给学生0511 进货增删改\MVC5开发框架 - 给学生\code\WebSite\Areas\admin\Controllers\bks_BookStockDetailController.cs:行号 57
+------------End-------------
+ 
+2023-05-16 10:54:41.9743 Error Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+------------begin-------------
+   在 System.Data.Entity.Internal.InternalContext.SaveChanges()
+   在 db.bll.bks_bookStockDetail.insert(bks_BookStockDetail entry, dbEntities dc) 位置 G:\大三下学期\.Net项目实训\2022版本\MVC5开发框架 - 给学生0511 进货增删改\MVC5开发框架 - 给学生\code\dbLibrary\bll\book\bks_bookStockDetail.cs:行号 58
+   在 web.Areas.admin.Controllers.bks_BookStockDetailController.Insert(bks_BookStockDetail model) 位置 G:\大三下学期\.Net项目实训\2022版本\MVC5开发框架 - 给学生0511 进货增删改\MVC5开发框架 - 给学生\code\WebSite\Areas\admin\Controllers\bks_BookStockDetailController.cs:行号 57
+------------End-------------
+ 
+2023-05-16 10:54:45.0383 Error Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+------------begin-------------
+   在 System.Data.Entity.Internal.InternalContext.SaveChanges()
+   在 db.bll.bks_bookStockDetail.insert(bks_BookStockDetail entry, dbEntities dc) 位置 G:\大三下学期\.Net项目实训\2022版本\MVC5开发框架 - 给学生0511 进货增删改\MVC5开发框架 - 给学生\code\dbLibrary\bll\book\bks_bookStockDetail.cs:行号 58
+   在 web.Areas.admin.Controllers.bks_BookStockDetailController.Insert(bks_BookStockDetail model) 位置 G:\大三下学期\.Net项目实训\2022版本\MVC5开发框架 - 给学生0511 进货增删改\MVC5开发框架 - 给学生\code\WebSite\Areas\admin\Controllers\bks_BookStockDetailController.cs:行号 57
+------------End-------------
+ 
+2023-05-16 10:55:13.1703 Error Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+------------begin-------------
+   在 System.Data.Entity.Internal.InternalContext.SaveChanges()
+   在 db.bll.bks_bookStockDetail.insert(bks_BookStockDetail entry, dbEntities dc) 位置 G:\大三下学期\.Net项目实训\2022版本\MVC5开发框架 - 给学生0511 进货增删改\MVC5开发框架 - 给学生\code\dbLibrary\bll\book\bks_bookStockDetail.cs:行号 58
+   在 web.Areas.admin.Controllers.bks_BookStockDetailController.Insert(bks_BookStockDetail model) 位置 G:\大三下学期\.Net项目实训\2022版本\MVC5开发框架 - 给学生0511 进货增删改\MVC5开发框架 - 给学生\code\WebSite\Areas\admin\Controllers\bks_BookStockDetailController.cs:行号 57
+------------End-------------
+ 
+2023-05-16 10:56:10.4009 Error Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
+------------begin-------------
+   在 System.Data.Entity.Internal.InternalContext.SaveChanges()
+   在 db.bll.bks_bookStockDetail.insert(bks_BookStockDetail entry, dbEntities dc) 位置 G:\大三下学期\.Net项目实训\2022版本\MVC5开发框架 - 给学生0511 进货增删改\MVC5开发框架 - 给学生\code\dbLibrary\bll\book\bks_bookStockDetail.cs:行号 58
+   在 web.Areas.admin.Controllers.bks_BookStockDetailController.Insert(bks_BookStockDetail model) 位置 G:\大三下学期\.Net项目实训\2022版本\MVC5开发框架 - 给学生0511 进货增删改\MVC5开发框架 - 给学生\code\WebSite\Areas\admin\Controllers\bks_BookStockDetailController.cs:行号 57
+------------End-------------
+ 
