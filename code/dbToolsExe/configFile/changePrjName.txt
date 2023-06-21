@@ -1,0 +1,5 @@
+﻿dbTools\App.Config
+dbLibrary\App.Config
+webSite\Web.config
+webSiteApi\Web.config
+webSiteWeixin\Web.config

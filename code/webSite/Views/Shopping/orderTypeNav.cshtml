@@ -1,0 +1,47 @@
+﻿<link rel="stylesheet" href="~/Content/booktype/pure-min.css" />
+<link rel="stylesheet" href="~/Content/booktype/styles.css">
+@section header
+{
+    <style type="text/css">
+
+        .left-sidebar {
+            width: 0px;
+        }
+
+        .main-content {
+            margin-top: 34px;
+            flex-grow: 1;
+        }
+
+            .main-content .top-buffer {
+                margin-top: 14px;
+            }
+    </style>
+    <script type="text/javascript">
+    </script>
+}
+
+<div class="left-sidebar">
+    <!-- sidebar content -->
+    <div style="width: 120px;">
+        <div class="pure-menu custom-restricted-width">
+            <span style="font-size:25px;">信息类型</span>
+            <ul class="pure-menu-list">
+                <li class="pure-menu-item">
+                    <a href="@Url.Action("Index", "Shopping")" class="pure-menu-link">购物车</a>
+                </li>
+                <li class="pure-menu-item">
+                    <a href="@Url.Action("Index", "Address")" class="pure-menu-link">收货地址</a>
+                </li>
+                <li class="pure-menu-item">
+                    <a href="@Url.Action("Index", "Order")" class="pure-menu-link">订单</a>
+                </li>
+                <li class="pure-menu-item">
+                    <a href="@Url.Action("personinfo", "Shopping")" class="pure-menu-link">个人信息</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+

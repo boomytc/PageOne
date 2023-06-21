@@ -1,0 +1,19 @@
+body {
+    color: #666;
+}
+
+.header .pure-menu {
+    border-bottom-color: black;
+    border-radius: 0;
+}
+
+.pure-menu-link {
+    padding: 1em .7em;
+}
+
+.logo {
+    width: 120px;
+    height: 40px;
+}
+
+

@@ -1,0 +1,37 @@
+﻿
+<script>
+    var timer;
+    function startTimer() {
+        var btn = document.getElementById("overc");
+        btn.disabled = true; // 禁用按钮
+        var count = 60;
+        timer = setInterval(function () {
+            count--;
+            if (count < 0) {
+                clearInterval(timer);
+                btn.disabled = false; // 启用按钮
+                btn.innerHTML = "获取代码";
+            } else {
+                btn.innerHTML = count + "秒后重新获取";
+            }
+        }, 1000);
+    }
+    history.back();
+    var timer;
+    function startTimer() {
+        var btn = document.getElementById("overc");
+        btn.disabled = true; // 禁用按钮
+        var count = 60;
+        timer = setInterval(function () {
+            count--;
+            if (count < 0) {
+                clearInterval(timer);
+                btn.disabled = false; // 启用按钮
+                btn.innerHTML = "获取代码";
+            } else {
+                btn.innerHTML = count + "秒后重新获取";
+            }
+        }, 1000);
+    }
+</script>
+

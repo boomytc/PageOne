@@ -1,0 +1,278 @@
+G:\大三下学期\综合项目课程设计\PageOne本地操作合并\PageOne\code\ruiLibrary\bin\Debug\ruiLibrary.dll
+G:\大三下学期\综合项目课程设计\PageOne本地操作合并\PageOne\code\ruiLibrary\bin\Debug\ruiLibrary.pdb
+G:\大三下学期\综合项目课程设计\PageOne本地操作合并\PageOne\code\ruiLibrary\bin\Debug\BarcodeLib.dll
+G:\大三下学期\综合项目课程设计\PageOne本地操作合并\PageOne\code\ruiLibrary\bin\Debug\Dapper.dll
+G:\大三下学期\综合项目课程设计\PageOne本地操作合并\PageOne\code\ruiLibrary\bin\Debug\Gma.QrCodeNet.Encoding.Net35.dll
+G:\大三下学期\综合项目课程设计\PageOne本地操作合并\PageOne\code\ruiLibrary\bin\Debug\ICSharpCode.SharpZipLib.dll
+G:\大三下学期\综合项目课程设计\PageOne本地操作合并\PageOne\code\ruiLibrary\bin\Debug\IntelliLock.Licensing.dll
+G:\大三下学期\综合项目课程设计\PageOne本地操作合并\PageOne\code\ruiLibrary\bin\Debug\itextsharp.dll
+G:\大三下学期\综合项目课程设计\PageOne本地操作合并\PageOne\code\ruiLibrary\bin\Debug\LitJSON.dll
+G:\大三下学期\综合项目课程设计\PageOne本地操作合并\PageOne\code\ruiLibrary\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+G:\大三下学期\综合项目课程设计\PageOne本地操作合并\PageOne\code\ruiLibrary\bin\Debug\Newtonsoft.Json.dll
+G:\大三下学期\综合项目课程设计\PageOne本地操作合并\PageOne\code\ruiLibrary\bin\Debug\NLog.dll
+G:\大三下学期\综合项目课程设计\PageOne本地操作合并\PageOne\code\ruiLibrary\bin\Debug\System.Web.Mvc.dll
+G:\大三下学期\综合项目课程设计\PageOne本地操作合并\PageOne\code\ruiLibrary\bin\Debug\System.Web.WebPages.dll
+G:\大三下学期\综合项目课程设计\PageOne本地操作合并\PageOne\code\ruiLibrary\bin\Debug\Microsoft.Web.Infrastructure.dll
+G:\大三下学期\综合项目课程设计\PageOne本地操作合并\PageOne\code\ruiLibrary\bin\Debug\System.Web.WebPages.Deployment.dll
+G:\大三下学期\综合项目课程设计\PageOne本地操作合并\PageOne\code\ruiLibrary\bin\Debug\Dapper.xml
+G:\大三下学期\综合项目课程设计\PageOne本地操作合并\PageOne\code\ruiLibrary\bin\Debug\Newtonsoft.Json.xml
+G:\大三下学期\综合项目课程设计\PageOne本地操作合并\PageOne\code\ruiLibrary\bin\Debug\System.Web.Mvc.xml
+G:\大三下学期\综合项目课程设计\PageOne本地操作合并\PageOne\code\ruiLibrary\bin\Debug\System.Web.WebPages.xml
+G:\大三下学期\综合项目课程设计\PageOne本地操作合并\PageOne\code\ruiLibrary\bin\Debug\Microsoft.Web.Infrastructure.xml
+G:\大三下学期\综合项目课程设计\PageOne本地操作合并\PageOne\code\ruiLibrary\bin\Debug\System.Web.WebPages.Deployment.xml
+G:\大三下学期\综合项目课程设计\PageOne本地操作合并\PageOne\code\ruiLibrary\bin\Debug\zh-Hans\System.Web.Mvc.resources.dll
+G:\大三下学期\综合项目课程设计\PageOne本地操作合并\PageOne\code\ruiLibrary\bin\Debug\zh-Hans\System.Web.WebPages.resources.dll
+G:\大三下学期\综合项目课程设计\PageOne本地操作合并\PageOne\code\ruiLibrary\bin\Debug\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+G:\大三下学期\综合项目课程设计\PageOne本地操作合并\PageOne\code\ruiLibrary\obj\Debug\ruiLibrary.csproj.AssemblyReference.cache
+G:\大三下学期\综合项目课程设计\PageOne本地操作合并\PageOne\code\ruiLibrary\obj\Debug\ruiLibrary.csproj.CoreCompileInputs.cache
+G:\大三下学期\综合项目课程设计\PageOne本地操作合并\PageOne\code\ruiLibrary\obj\Debug\ruiLibrary.csproj.CopyComplete
+G:\大三下学期\综合项目课程设计\PageOne本地操作合并\PageOne\code\ruiLibrary\obj\Debug\ruiLibrary.dll
+G:\大三下学期\综合项目课程设计\PageOne本地操作合并\PageOne\code\ruiLibrary\obj\Debug\ruiLibrary.pdb
+G:\大三下学期\综合项目课程设计\PageOne本地操作版\code\ruiLibrary\bin\Debug\ruiLibrary.dll
+G:\大三下学期\综合项目课程设计\PageOne本地操作版\code\ruiLibrary\bin\Debug\ruiLibrary.pdb
+G:\大三下学期\综合项目课程设计\PageOne本地操作版\code\ruiLibrary\bin\Debug\BarcodeLib.dll
+G:\大三下学期\综合项目课程设计\PageOne本地操作版\code\ruiLibrary\bin\Debug\Dapper.dll
+G:\大三下学期\综合项目课程设计\PageOne本地操作版\code\ruiLibrary\bin\Debug\Gma.QrCodeNet.Encoding.Net35.dll
+G:\大三下学期\综合项目课程设计\PageOne本地操作版\code\ruiLibrary\bin\Debug\ICSharpCode.SharpZipLib.dll
+G:\大三下学期\综合项目课程设计\PageOne本地操作版\code\ruiLibrary\bin\Debug\IntelliLock.Licensing.dll
+G:\大三下学期\综合项目课程设计\PageOne本地操作版\code\ruiLibrary\bin\Debug\itextsharp.dll
+G:\大三下学期\综合项目课程设计\PageOne本地操作版\code\ruiLibrary\bin\Debug\LitJSON.dll
+G:\大三下学期\综合项目课程设计\PageOne本地操作版\code\ruiLibrary\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+G:\大三下学期\综合项目课程设计\PageOne本地操作版\code\ruiLibrary\bin\Debug\Newtonsoft.Json.dll
+G:\大三下学期\综合项目课程设计\PageOne本地操作版\code\ruiLibrary\bin\Debug\NLog.dll
+G:\大三下学期\综合项目课程设计\PageOne本地操作版\code\ruiLibrary\bin\Debug\System.Web.Mvc.dll
+G:\大三下学期\综合项目课程设计\PageOne本地操作版\code\ruiLibrary\bin\Debug\System.Web.WebPages.dll
+G:\大三下学期\综合项目课程设计\PageOne本地操作版\code\ruiLibrary\bin\Debug\System.Web.WebPages.Deployment.dll
+G:\大三下学期\综合项目课程设计\PageOne本地操作版\code\ruiLibrary\bin\Debug\Dapper.xml
+G:\大三下学期\综合项目课程设计\PageOne本地操作版\code\ruiLibrary\bin\Debug\Newtonsoft.Json.xml
+G:\大三下学期\综合项目课程设计\PageOne本地操作版\code\ruiLibrary\bin\Debug\System.Web.Mvc.xml
+G:\大三下学期\综合项目课程设计\PageOne本地操作版\code\ruiLibrary\bin\Debug\System.Web.WebPages.xml
+G:\大三下学期\综合项目课程设计\PageOne本地操作版\code\ruiLibrary\bin\Debug\System.Web.WebPages.Deployment.xml
+G:\大三下学期\综合项目课程设计\PageOne本地操作版\code\ruiLibrary\bin\Debug\zh-Hans\System.Web.Mvc.resources.dll
+G:\大三下学期\综合项目课程设计\PageOne本地操作版\code\ruiLibrary\bin\Debug\zh-Hans\System.Web.WebPages.resources.dll
+G:\大三下学期\综合项目课程设计\PageOne本地操作版\code\ruiLibrary\bin\Debug\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+G:\大三下学期\综合项目课程设计\PageOne本地操作版\code\ruiLibrary\obj\Debug\ruiLibrary.dll
+G:\大三下学期\综合项目课程设计\PageOne本地操作版\code\ruiLibrary\obj\Debug\ruiLibrary.pdb
+G:\大三下学期\综合项目课程设计\PageOne本地操作版\code\ruiLibrary\bin\Debug\Microsoft.Web.Infrastructure.dll
+G:\大三下学期\综合项目课程设计\PageOne本地操作版\code\ruiLibrary\bin\Debug\Microsoft.Web.Infrastructure.xml
+G:\大三下学期\综合项目课程设计\PageOne本地操作版\code\ruiLibrary\obj\Debug\ruiLibrary.csproj.AssemblyReference.cache
+G:\大三下学期\综合项目课程设计\PageOne本地操作版\code\ruiLibrary\obj\Debug\ruiLibrary.csproj.CoreCompileInputs.cache
+G:\大三下学期\综合项目课程设计\PageOne本地操作版\code\ruiLibrary\obj\Debug\ruiLibrary.csproj.CopyComplete
+G:\大三下学期\综合项目课程设计\PageOne本地操作版-备份\code\ruiLibrary\bin\Debug\ruiLibrary.dll
+G:\大三下学期\综合项目课程设计\PageOne本地操作版-备份\code\ruiLibrary\bin\Debug\ruiLibrary.pdb
+G:\大三下学期\综合项目课程设计\PageOne本地操作版-备份\code\ruiLibrary\bin\Debug\BarcodeLib.dll
+G:\大三下学期\综合项目课程设计\PageOne本地操作版-备份\code\ruiLibrary\bin\Debug\Dapper.dll
+G:\大三下学期\综合项目课程设计\PageOne本地操作版-备份\code\ruiLibrary\bin\Debug\Gma.QrCodeNet.Encoding.Net35.dll
+G:\大三下学期\综合项目课程设计\PageOne本地操作版-备份\code\ruiLibrary\bin\Debug\ICSharpCode.SharpZipLib.dll
+G:\大三下学期\综合项目课程设计\PageOne本地操作版-备份\code\ruiLibrary\bin\Debug\IntelliLock.Licensing.dll
+G:\大三下学期\综合项目课程设计\PageOne本地操作版-备份\code\ruiLibrary\bin\Debug\itextsharp.dll
+G:\大三下学期\综合项目课程设计\PageOne本地操作版-备份\code\ruiLibrary\bin\Debug\LitJSON.dll
+G:\大三下学期\综合项目课程设计\PageOne本地操作版-备份\code\ruiLibrary\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+G:\大三下学期\综合项目课程设计\PageOne本地操作版-备份\code\ruiLibrary\bin\Debug\Newtonsoft.Json.dll
+G:\大三下学期\综合项目课程设计\PageOne本地操作版-备份\code\ruiLibrary\bin\Debug\NLog.dll
+G:\大三下学期\综合项目课程设计\PageOne本地操作版-备份\code\ruiLibrary\bin\Debug\System.Web.Mvc.dll
+G:\大三下学期\综合项目课程设计\PageOne本地操作版-备份\code\ruiLibrary\bin\Debug\System.Web.WebPages.dll
+G:\大三下学期\综合项目课程设计\PageOne本地操作版-备份\code\ruiLibrary\bin\Debug\Microsoft.Web.Infrastructure.dll
+G:\大三下学期\综合项目课程设计\PageOne本地操作版-备份\code\ruiLibrary\bin\Debug\System.Web.WebPages.Deployment.dll
+G:\大三下学期\综合项目课程设计\PageOne本地操作版-备份\code\ruiLibrary\bin\Debug\Dapper.xml
+G:\大三下学期\综合项目课程设计\PageOne本地操作版-备份\code\ruiLibrary\bin\Debug\Newtonsoft.Json.xml
+G:\大三下学期\综合项目课程设计\PageOne本地操作版-备份\code\ruiLibrary\bin\Debug\System.Web.Mvc.xml
+G:\大三下学期\综合项目课程设计\PageOne本地操作版-备份\code\ruiLibrary\bin\Debug\System.Web.WebPages.xml
+G:\大三下学期\综合项目课程设计\PageOne本地操作版-备份\code\ruiLibrary\bin\Debug\Microsoft.Web.Infrastructure.xml
+G:\大三下学期\综合项目课程设计\PageOne本地操作版-备份\code\ruiLibrary\bin\Debug\System.Web.WebPages.Deployment.xml
+G:\大三下学期\综合项目课程设计\PageOne本地操作版-备份\code\ruiLibrary\bin\Debug\zh-Hans\System.Web.Mvc.resources.dll
+G:\大三下学期\综合项目课程设计\PageOne本地操作版-备份\code\ruiLibrary\bin\Debug\zh-Hans\System.Web.WebPages.resources.dll
+G:\大三下学期\综合项目课程设计\PageOne本地操作版-备份\code\ruiLibrary\bin\Debug\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+G:\大三下学期\综合项目课程设计\PageOne本地操作版-备份\code\ruiLibrary\obj\Debug\ruiLibrary.csproj.AssemblyReference.cache
+G:\大三下学期\综合项目课程设计\PageOne本地操作版-备份\code\ruiLibrary\obj\Debug\ruiLibrary.csproj.CoreCompileInputs.cache
+G:\大三下学期\综合项目课程设计\PageOne本地操作版-备份\code\ruiLibrary\obj\Debug\ruiLibrary.csproj.CopyComplete
+G:\大三下学期\综合项目课程设计\PageOne本地操作版-备份\code\ruiLibrary\obj\Debug\ruiLibrary.dll
+G:\大三下学期\综合项目课程设计\PageOne本地操作版-备份\code\ruiLibrary\obj\Debug\ruiLibrary.pdb
+G:\大三下学期\综合项目课程设计\PageOne本地操作版2\code\ruiLibrary\bin\Debug\ruiLibrary.dll
+G:\大三下学期\综合项目课程设计\PageOne本地操作版2\code\ruiLibrary\bin\Debug\ruiLibrary.pdb
+G:\大三下学期\综合项目课程设计\PageOne本地操作版2\code\ruiLibrary\bin\Debug\BarcodeLib.dll
+G:\大三下学期\综合项目课程设计\PageOne本地操作版2\code\ruiLibrary\bin\Debug\Dapper.dll
+G:\大三下学期\综合项目课程设计\PageOne本地操作版2\code\ruiLibrary\bin\Debug\Gma.QrCodeNet.Encoding.Net35.dll
+G:\大三下学期\综合项目课程设计\PageOne本地操作版2\code\ruiLibrary\bin\Debug\ICSharpCode.SharpZipLib.dll
+G:\大三下学期\综合项目课程设计\PageOne本地操作版2\code\ruiLibrary\bin\Debug\IntelliLock.Licensing.dll
+G:\大三下学期\综合项目课程设计\PageOne本地操作版2\code\ruiLibrary\bin\Debug\itextsharp.dll
+G:\大三下学期\综合项目课程设计\PageOne本地操作版2\code\ruiLibrary\bin\Debug\LitJSON.dll
+G:\大三下学期\综合项目课程设计\PageOne本地操作版2\code\ruiLibrary\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+G:\大三下学期\综合项目课程设计\PageOne本地操作版2\code\ruiLibrary\bin\Debug\Newtonsoft.Json.dll
+G:\大三下学期\综合项目课程设计\PageOne本地操作版2\code\ruiLibrary\bin\Debug\NLog.dll
+G:\大三下学期\综合项目课程设计\PageOne本地操作版2\code\ruiLibrary\bin\Debug\System.Web.Mvc.dll
+G:\大三下学期\综合项目课程设计\PageOne本地操作版2\code\ruiLibrary\bin\Debug\System.Web.WebPages.dll
+G:\大三下学期\综合项目课程设计\PageOne本地操作版2\code\ruiLibrary\bin\Debug\Microsoft.Web.Infrastructure.dll
+G:\大三下学期\综合项目课程设计\PageOne本地操作版2\code\ruiLibrary\bin\Debug\System.Web.WebPages.Deployment.dll
+G:\大三下学期\综合项目课程设计\PageOne本地操作版2\code\ruiLibrary\bin\Debug\Dapper.xml
+G:\大三下学期\综合项目课程设计\PageOne本地操作版2\code\ruiLibrary\bin\Debug\Newtonsoft.Json.xml
+G:\大三下学期\综合项目课程设计\PageOne本地操作版2\code\ruiLibrary\bin\Debug\System.Web.Mvc.xml
+G:\大三下学期\综合项目课程设计\PageOne本地操作版2\code\ruiLibrary\bin\Debug\System.Web.WebPages.xml
+G:\大三下学期\综合项目课程设计\PageOne本地操作版2\code\ruiLibrary\bin\Debug\Microsoft.Web.Infrastructure.xml
+G:\大三下学期\综合项目课程设计\PageOne本地操作版2\code\ruiLibrary\bin\Debug\System.Web.WebPages.Deployment.xml
+G:\大三下学期\综合项目课程设计\PageOne本地操作版2\code\ruiLibrary\bin\Debug\zh-Hans\System.Web.Mvc.resources.dll
+G:\大三下学期\综合项目课程设计\PageOne本地操作版2\code\ruiLibrary\bin\Debug\zh-Hans\System.Web.WebPages.resources.dll
+G:\大三下学期\综合项目课程设计\PageOne本地操作版2\code\ruiLibrary\bin\Debug\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+G:\大三下学期\综合项目课程设计\PageOne本地操作版2\code\ruiLibrary\obj\Debug\ruiLibrary.csproj.AssemblyReference.cache
+G:\大三下学期\综合项目课程设计\PageOne本地操作版2\code\ruiLibrary\obj\Debug\ruiLibrary.csproj.CoreCompileInputs.cache
+G:\大三下学期\综合项目课程设计\PageOne本地操作版2\code\ruiLibrary\obj\Debug\ruiLibrary.csproj.CopyComplete
+G:\大三下学期\综合项目课程设计\PageOne本地操作版2\code\ruiLibrary\obj\Debug\ruiLibrary.dll
+G:\大三下学期\综合项目课程设计\PageOne本地操作版2\code\ruiLibrary\obj\Debug\ruiLibrary.pdb
+D:\大三课程设计\PageOne\code\ruiLibrary\bin\Debug\ruiLibrary.dll
+D:\大三课程设计\PageOne\code\ruiLibrary\bin\Debug\ruiLibrary.pdb
+D:\大三课程设计\PageOne\code\ruiLibrary\bin\Debug\BarcodeLib.dll
+D:\大三课程设计\PageOne\code\ruiLibrary\bin\Debug\Dapper.dll
+D:\大三课程设计\PageOne\code\ruiLibrary\bin\Debug\Gma.QrCodeNet.Encoding.Net35.dll
+D:\大三课程设计\PageOne\code\ruiLibrary\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\大三课程设计\PageOne\code\ruiLibrary\bin\Debug\IntelliLock.Licensing.dll
+D:\大三课程设计\PageOne\code\ruiLibrary\bin\Debug\itextsharp.dll
+D:\大三课程设计\PageOne\code\ruiLibrary\bin\Debug\LitJSON.dll
+D:\大三课程设计\PageOne\code\ruiLibrary\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\大三课程设计\PageOne\code\ruiLibrary\bin\Debug\Newtonsoft.Json.dll
+D:\大三课程设计\PageOne\code\ruiLibrary\bin\Debug\NLog.dll
+D:\大三课程设计\PageOne\code\ruiLibrary\bin\Debug\System.Web.Mvc.dll
+D:\大三课程设计\PageOne\code\ruiLibrary\bin\Debug\System.Web.WebPages.dll
+D:\大三课程设计\PageOne\code\ruiLibrary\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\大三课程设计\PageOne\code\ruiLibrary\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\大三课程设计\PageOne\code\ruiLibrary\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\大三课程设计\PageOne\code\ruiLibrary\bin\Debug\Dapper.xml
+D:\大三课程设计\PageOne\code\ruiLibrary\bin\Debug\Newtonsoft.Json.xml
+D:\大三课程设计\PageOne\code\ruiLibrary\bin\Debug\System.Web.Mvc.xml
+D:\大三课程设计\PageOne\code\ruiLibrary\bin\Debug\System.Web.WebPages.xml
+D:\大三课程设计\PageOne\code\ruiLibrary\bin\Debug\Microsoft.Web.Infrastructure.xml
+D:\大三课程设计\PageOne\code\ruiLibrary\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\大三课程设计\PageOne\code\ruiLibrary\bin\Debug\zh-Hans\System.Web.Mvc.resources.dll
+D:\大三课程设计\PageOne\code\ruiLibrary\bin\Debug\zh-Hans\System.Web.WebPages.resources.dll
+D:\大三课程设计\PageOne\code\ruiLibrary\bin\Debug\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+D:\大三课程设计\PageOne\code\ruiLibrary\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\大三课程设计\PageOne\code\ruiLibrary\obj\Debug\ruiLibrary.csproj.AssemblyReference.cache
+D:\大三课程设计\PageOne\code\ruiLibrary\obj\Debug\ruiLibrary.csproj.CoreCompileInputs.cache
+D:\大三课程设计\PageOne\code\ruiLibrary\obj\Debug\ruiLibrary.csproj.CopyComplete
+D:\大三课程设计\PageOne\code\ruiLibrary\obj\Debug\ruiLibrary.dll
+D:\大三课程设计\PageOne\code\ruiLibrary\obj\Debug\ruiLibrary.pdb
+C:\Users\boomytc\Desktop\PageOne\code\ruiLibrary\bin\Debug\ruiLibrary.dll
+C:\Users\boomytc\Desktop\PageOne\code\ruiLibrary\bin\Debug\ruiLibrary.pdb
+C:\Users\boomytc\Desktop\PageOne\code\ruiLibrary\bin\Debug\BarcodeLib.dll
+C:\Users\boomytc\Desktop\PageOne\code\ruiLibrary\bin\Debug\Dapper.dll
+C:\Users\boomytc\Desktop\PageOne\code\ruiLibrary\bin\Debug\Gma.QrCodeNet.Encoding.Net35.dll
+C:\Users\boomytc\Desktop\PageOne\code\ruiLibrary\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\boomytc\Desktop\PageOne\code\ruiLibrary\bin\Debug\IntelliLock.Licensing.dll
+C:\Users\boomytc\Desktop\PageOne\code\ruiLibrary\bin\Debug\itextsharp.dll
+C:\Users\boomytc\Desktop\PageOne\code\ruiLibrary\bin\Debug\LitJSON.dll
+C:\Users\boomytc\Desktop\PageOne\code\ruiLibrary\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\boomytc\Desktop\PageOne\code\ruiLibrary\bin\Debug\Newtonsoft.Json.dll
+C:\Users\boomytc\Desktop\PageOne\code\ruiLibrary\bin\Debug\NLog.dll
+C:\Users\boomytc\Desktop\PageOne\code\ruiLibrary\bin\Debug\System.Web.Mvc.dll
+C:\Users\boomytc\Desktop\PageOne\code\ruiLibrary\bin\Debug\System.Web.WebPages.dll
+C:\Users\boomytc\Desktop\PageOne\code\ruiLibrary\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\boomytc\Desktop\PageOne\code\ruiLibrary\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\boomytc\Desktop\PageOne\code\ruiLibrary\bin\Debug\Dapper.xml
+C:\Users\boomytc\Desktop\PageOne\code\ruiLibrary\bin\Debug\Newtonsoft.Json.xml
+C:\Users\boomytc\Desktop\PageOne\code\ruiLibrary\bin\Debug\System.Web.Mvc.xml
+C:\Users\boomytc\Desktop\PageOne\code\ruiLibrary\bin\Debug\System.Web.WebPages.xml
+C:\Users\boomytc\Desktop\PageOne\code\ruiLibrary\bin\Debug\Microsoft.Web.Infrastructure.xml
+C:\Users\boomytc\Desktop\PageOne\code\ruiLibrary\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\boomytc\Desktop\PageOne\code\ruiLibrary\bin\Debug\zh-Hans\System.Web.Mvc.resources.dll
+C:\Users\boomytc\Desktop\PageOne\code\ruiLibrary\bin\Debug\zh-Hans\System.Web.WebPages.resources.dll
+C:\Users\boomytc\Desktop\PageOne\code\ruiLibrary\bin\Debug\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+C:\Users\boomytc\Desktop\PageOne\code\ruiLibrary\obj\Debug\ruiLibrary.csproj.AssemblyReference.cache
+C:\Users\boomytc\Desktop\PageOne\code\ruiLibrary\obj\Debug\ruiLibrary.csproj.CoreCompileInputs.cache
+C:\Users\boomytc\Desktop\PageOne\code\ruiLibrary\obj\Debug\ruiLibrary.csproj.CopyComplete
+C:\Users\boomytc\Desktop\PageOne\code\ruiLibrary\obj\Debug\ruiLibrary.dll
+C:\Users\boomytc\Desktop\PageOne\code\ruiLibrary\obj\Debug\ruiLibrary.pdb
+D:\QQ专用\消息记录\1256244128\FileRecv\PageOne本地操作版 (1)\PageOne本地操作版\code\ruiLibrary\bin\Debug\ruiLibrary.dll
+D:\QQ专用\消息记录\1256244128\FileRecv\PageOne本地操作版 (1)\PageOne本地操作版\code\ruiLibrary\bin\Debug\ruiLibrary.pdb
+D:\QQ专用\消息记录\1256244128\FileRecv\PageOne本地操作版 (1)\PageOne本地操作版\code\ruiLibrary\bin\Debug\BarcodeLib.dll
+D:\QQ专用\消息记录\1256244128\FileRecv\PageOne本地操作版 (1)\PageOne本地操作版\code\ruiLibrary\bin\Debug\Dapper.dll
+D:\QQ专用\消息记录\1256244128\FileRecv\PageOne本地操作版 (1)\PageOne本地操作版\code\ruiLibrary\bin\Debug\Gma.QrCodeNet.Encoding.Net35.dll
+D:\QQ专用\消息记录\1256244128\FileRecv\PageOne本地操作版 (1)\PageOne本地操作版\code\ruiLibrary\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\QQ专用\消息记录\1256244128\FileRecv\PageOne本地操作版 (1)\PageOne本地操作版\code\ruiLibrary\bin\Debug\IntelliLock.Licensing.dll
+D:\QQ专用\消息记录\1256244128\FileRecv\PageOne本地操作版 (1)\PageOne本地操作版\code\ruiLibrary\bin\Debug\itextsharp.dll
+D:\QQ专用\消息记录\1256244128\FileRecv\PageOne本地操作版 (1)\PageOne本地操作版\code\ruiLibrary\bin\Debug\LitJSON.dll
+D:\QQ专用\消息记录\1256244128\FileRecv\PageOne本地操作版 (1)\PageOne本地操作版\code\ruiLibrary\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\QQ专用\消息记录\1256244128\FileRecv\PageOne本地操作版 (1)\PageOne本地操作版\code\ruiLibrary\bin\Debug\Newtonsoft.Json.dll
+D:\QQ专用\消息记录\1256244128\FileRecv\PageOne本地操作版 (1)\PageOne本地操作版\code\ruiLibrary\bin\Debug\NLog.dll
+D:\QQ专用\消息记录\1256244128\FileRecv\PageOne本地操作版 (1)\PageOne本地操作版\code\ruiLibrary\bin\Debug\System.Web.Mvc.dll
+D:\QQ专用\消息记录\1256244128\FileRecv\PageOne本地操作版 (1)\PageOne本地操作版\code\ruiLibrary\bin\Debug\System.Web.WebPages.dll
+D:\QQ专用\消息记录\1256244128\FileRecv\PageOne本地操作版 (1)\PageOne本地操作版\code\ruiLibrary\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\QQ专用\消息记录\1256244128\FileRecv\PageOne本地操作版 (1)\PageOne本地操作版\code\ruiLibrary\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\QQ专用\消息记录\1256244128\FileRecv\PageOne本地操作版 (1)\PageOne本地操作版\code\ruiLibrary\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\QQ专用\消息记录\1256244128\FileRecv\PageOne本地操作版 (1)\PageOne本地操作版\code\ruiLibrary\bin\Debug\Dapper.xml
+D:\QQ专用\消息记录\1256244128\FileRecv\PageOne本地操作版 (1)\PageOne本地操作版\code\ruiLibrary\bin\Debug\Newtonsoft.Json.xml
+D:\QQ专用\消息记录\1256244128\FileRecv\PageOne本地操作版 (1)\PageOne本地操作版\code\ruiLibrary\bin\Debug\System.Web.Mvc.xml
+D:\QQ专用\消息记录\1256244128\FileRecv\PageOne本地操作版 (1)\PageOne本地操作版\code\ruiLibrary\bin\Debug\System.Web.WebPages.xml
+D:\QQ专用\消息记录\1256244128\FileRecv\PageOne本地操作版 (1)\PageOne本地操作版\code\ruiLibrary\bin\Debug\Microsoft.Web.Infrastructure.xml
+D:\QQ专用\消息记录\1256244128\FileRecv\PageOne本地操作版 (1)\PageOne本地操作版\code\ruiLibrary\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\QQ专用\消息记录\1256244128\FileRecv\PageOne本地操作版 (1)\PageOne本地操作版\code\ruiLibrary\bin\Debug\zh-Hans\System.Web.Mvc.resources.dll
+D:\QQ专用\消息记录\1256244128\FileRecv\PageOne本地操作版 (1)\PageOne本地操作版\code\ruiLibrary\bin\Debug\zh-Hans\System.Web.WebPages.resources.dll
+D:\QQ专用\消息记录\1256244128\FileRecv\PageOne本地操作版 (1)\PageOne本地操作版\code\ruiLibrary\bin\Debug\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+D:\QQ专用\消息记录\1256244128\FileRecv\PageOne本地操作版 (1)\PageOne本地操作版\code\ruiLibrary\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\QQ专用\消息记录\1256244128\FileRecv\PageOne本地操作版 (1)\PageOne本地操作版\code\ruiLibrary\obj\Debug\ruiLibrary.csproj.AssemblyReference.cache
+D:\QQ专用\消息记录\1256244128\FileRecv\PageOne本地操作版 (1)\PageOne本地操作版\code\ruiLibrary\obj\Debug\ruiLibrary.csproj.CoreCompileInputs.cache
+D:\QQ专用\消息记录\1256244128\FileRecv\PageOne本地操作版 (1)\PageOne本地操作版\code\ruiLibrary\obj\Debug\ruiLibrary.csproj.CopyComplete
+D:\QQ专用\消息记录\1256244128\FileRecv\PageOne本地操作版 (1)\PageOne本地操作版\code\ruiLibrary\obj\Debug\ruiLibrary.dll
+D:\QQ专用\消息记录\1256244128\FileRecv\PageOne本地操作版 (1)\PageOne本地操作版\code\ruiLibrary\obj\Debug\ruiLibrary.pdb
+D:\QQ专用\消息记录\1256244128\FileRecv\整合完成订单分析\PageOne本地操作版\code\ruiLibrary\bin\Debug\ruiLibrary.dll
+D:\QQ专用\消息记录\1256244128\FileRecv\整合完成订单分析\PageOne本地操作版\code\ruiLibrary\bin\Debug\ruiLibrary.pdb
+D:\QQ专用\消息记录\1256244128\FileRecv\整合完成订单分析\PageOne本地操作版\code\ruiLibrary\bin\Debug\BarcodeLib.dll
+D:\QQ专用\消息记录\1256244128\FileRecv\整合完成订单分析\PageOne本地操作版\code\ruiLibrary\bin\Debug\Dapper.dll
+D:\QQ专用\消息记录\1256244128\FileRecv\整合完成订单分析\PageOne本地操作版\code\ruiLibrary\bin\Debug\Gma.QrCodeNet.Encoding.Net35.dll
+D:\QQ专用\消息记录\1256244128\FileRecv\整合完成订单分析\PageOne本地操作版\code\ruiLibrary\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\QQ专用\消息记录\1256244128\FileRecv\整合完成订单分析\PageOne本地操作版\code\ruiLibrary\bin\Debug\IntelliLock.Licensing.dll
+D:\QQ专用\消息记录\1256244128\FileRecv\整合完成订单分析\PageOne本地操作版\code\ruiLibrary\bin\Debug\itextsharp.dll
+D:\QQ专用\消息记录\1256244128\FileRecv\整合完成订单分析\PageOne本地操作版\code\ruiLibrary\bin\Debug\LitJSON.dll
+D:\QQ专用\消息记录\1256244128\FileRecv\整合完成订单分析\PageOne本地操作版\code\ruiLibrary\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\QQ专用\消息记录\1256244128\FileRecv\整合完成订单分析\PageOne本地操作版\code\ruiLibrary\bin\Debug\Newtonsoft.Json.dll
+D:\QQ专用\消息记录\1256244128\FileRecv\整合完成订单分析\PageOne本地操作版\code\ruiLibrary\bin\Debug\NLog.dll
+D:\QQ专用\消息记录\1256244128\FileRecv\整合完成订单分析\PageOne本地操作版\code\ruiLibrary\bin\Debug\System.Web.Mvc.dll
+D:\QQ专用\消息记录\1256244128\FileRecv\整合完成订单分析\PageOne本地操作版\code\ruiLibrary\bin\Debug\System.Web.WebPages.dll
+D:\QQ专用\消息记录\1256244128\FileRecv\整合完成订单分析\PageOne本地操作版\code\ruiLibrary\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\QQ专用\消息记录\1256244128\FileRecv\整合完成订单分析\PageOne本地操作版\code\ruiLibrary\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\QQ专用\消息记录\1256244128\FileRecv\整合完成订单分析\PageOne本地操作版\code\ruiLibrary\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\QQ专用\消息记录\1256244128\FileRecv\整合完成订单分析\PageOne本地操作版\code\ruiLibrary\bin\Debug\Dapper.xml
+D:\QQ专用\消息记录\1256244128\FileRecv\整合完成订单分析\PageOne本地操作版\code\ruiLibrary\bin\Debug\Newtonsoft.Json.xml
+D:\QQ专用\消息记录\1256244128\FileRecv\整合完成订单分析\PageOne本地操作版\code\ruiLibrary\bin\Debug\System.Web.Mvc.xml
+D:\QQ专用\消息记录\1256244128\FileRecv\整合完成订单分析\PageOne本地操作版\code\ruiLibrary\bin\Debug\System.Web.WebPages.xml
+D:\QQ专用\消息记录\1256244128\FileRecv\整合完成订单分析\PageOne本地操作版\code\ruiLibrary\bin\Debug\Microsoft.Web.Infrastructure.xml
+D:\QQ专用\消息记录\1256244128\FileRecv\整合完成订单分析\PageOne本地操作版\code\ruiLibrary\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\QQ专用\消息记录\1256244128\FileRecv\整合完成订单分析\PageOne本地操作版\code\ruiLibrary\bin\Debug\zh-Hans\System.Web.Mvc.resources.dll
+D:\QQ专用\消息记录\1256244128\FileRecv\整合完成订单分析\PageOne本地操作版\code\ruiLibrary\bin\Debug\zh-Hans\System.Web.WebPages.resources.dll
+D:\QQ专用\消息记录\1256244128\FileRecv\整合完成订单分析\PageOne本地操作版\code\ruiLibrary\bin\Debug\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+D:\QQ专用\消息记录\1256244128\FileRecv\整合完成订单分析\PageOne本地操作版\code\ruiLibrary\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\QQ专用\消息记录\1256244128\FileRecv\整合完成订单分析\PageOne本地操作版\code\ruiLibrary\obj\Debug\ruiLibrary.csproj.AssemblyReference.cache
+D:\QQ专用\消息记录\1256244128\FileRecv\整合完成订单分析\PageOne本地操作版\code\ruiLibrary\obj\Debug\ruiLibrary.csproj.CoreCompileInputs.cache
+D:\QQ专用\消息记录\1256244128\FileRecv\整合完成订单分析\PageOne本地操作版\code\ruiLibrary\obj\Debug\ruiLibrary.csproj.CopyComplete
+D:\QQ专用\消息记录\1256244128\FileRecv\整合完成订单分析\PageOne本地操作版\code\ruiLibrary\obj\Debug\ruiLibrary.dll
+D:\QQ专用\消息记录\1256244128\FileRecv\整合完成订单分析\PageOne本地操作版\code\ruiLibrary\obj\Debug\ruiLibrary.pdb
+D:\Gitee\整合完成订单分析\PageOne本地操作版\code\ruiLibrary\bin\Debug\ruiLibrary.dll
+D:\Gitee\整合完成订单分析\PageOne本地操作版\code\ruiLibrary\bin\Debug\ruiLibrary.pdb
+D:\Gitee\整合完成订单分析\PageOne本地操作版\code\ruiLibrary\bin\Debug\BarcodeLib.dll
+D:\Gitee\整合完成订单分析\PageOne本地操作版\code\ruiLibrary\bin\Debug\Dapper.dll
+D:\Gitee\整合完成订单分析\PageOne本地操作版\code\ruiLibrary\bin\Debug\Gma.QrCodeNet.Encoding.Net35.dll
+D:\Gitee\整合完成订单分析\PageOne本地操作版\code\ruiLibrary\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Gitee\整合完成订单分析\PageOne本地操作版\code\ruiLibrary\bin\Debug\IntelliLock.Licensing.dll
+D:\Gitee\整合完成订单分析\PageOne本地操作版\code\ruiLibrary\bin\Debug\itextsharp.dll
+D:\Gitee\整合完成订单分析\PageOne本地操作版\code\ruiLibrary\bin\Debug\LitJSON.dll
+D:\Gitee\整合完成订单分析\PageOne本地操作版\code\ruiLibrary\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Gitee\整合完成订单分析\PageOne本地操作版\code\ruiLibrary\bin\Debug\Newtonsoft.Json.dll
+D:\Gitee\整合完成订单分析\PageOne本地操作版\code\ruiLibrary\bin\Debug\NLog.dll
+D:\Gitee\整合完成订单分析\PageOne本地操作版\code\ruiLibrary\bin\Debug\System.Web.Mvc.dll
+D:\Gitee\整合完成订单分析\PageOne本地操作版\code\ruiLibrary\bin\Debug\System.Web.WebPages.dll
+D:\Gitee\整合完成订单分析\PageOne本地操作版\code\ruiLibrary\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Gitee\整合完成订单分析\PageOne本地操作版\code\ruiLibrary\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Gitee\整合完成订单分析\PageOne本地操作版\code\ruiLibrary\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Gitee\整合完成订单分析\PageOne本地操作版\code\ruiLibrary\bin\Debug\Dapper.xml
+D:\Gitee\整合完成订单分析\PageOne本地操作版\code\ruiLibrary\bin\Debug\Newtonsoft.Json.xml
+D:\Gitee\整合完成订单分析\PageOne本地操作版\code\ruiLibrary\bin\Debug\System.Web.Mvc.xml
+D:\Gitee\整合完成订单分析\PageOne本地操作版\code\ruiLibrary\bin\Debug\System.Web.WebPages.xml
+D:\Gitee\整合完成订单分析\PageOne本地操作版\code\ruiLibrary\bin\Debug\Microsoft.Web.Infrastructure.xml
+D:\Gitee\整合完成订单分析\PageOne本地操作版\code\ruiLibrary\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Gitee\整合完成订单分析\PageOne本地操作版\code\ruiLibrary\bin\Debug\zh-Hans\System.Web.Mvc.resources.dll
+D:\Gitee\整合完成订单分析\PageOne本地操作版\code\ruiLibrary\bin\Debug\zh-Hans\System.Web.WebPages.resources.dll
+D:\Gitee\整合完成订单分析\PageOne本地操作版\code\ruiLibrary\bin\Debug\zh-Hans\System.Web.WebPages.Deployment.resources.dll
+D:\Gitee\整合完成订单分析\PageOne本地操作版\code\ruiLibrary\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\Gitee\整合完成订单分析\PageOne本地操作版\code\ruiLibrary\obj\Debug\ruiLibrary.csproj.AssemblyReference.cache
+D:\Gitee\整合完成订单分析\PageOne本地操作版\code\ruiLibrary\obj\Debug\ruiLibrary.csproj.CoreCompileInputs.cache
+D:\Gitee\整合完成订单分析\PageOne本地操作版\code\ruiLibrary\obj\Debug\ruiLibrary.csproj.CopyComplete
+D:\Gitee\整合完成订单分析\PageOne本地操作版\code\ruiLibrary\obj\Debug\ruiLibrary.dll
+D:\Gitee\整合完成订单分析\PageOne本地操作版\code\ruiLibrary\obj\Debug\ruiLibrary.pdb

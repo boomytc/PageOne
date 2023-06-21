@@ -1,0 +1,274 @@
+﻿@model db.bks_Book
+
+<!DOCTYPE html>
+@{
+    Layout = "~/Views/Shared/_LayoutLogin.cshtml";
+}
+
+
+
+<style type="text/css">
+    .ruiTable th {
+        height: 50px;
+    }
+
+    .showData ul li {
+        float: left;
+        margin-left: 5px;
+        border: 1px solid black;
+        width: 180px;
+        height: 250px;
+    }
+</style>
+<script type="text/javascript">
+        //刷新当前页面的数据
+        function refleshData(exeCountSql) {
+            $("#container").pager("reflesh", exeCountSql);
+        }
+        //初始化分页
+        $(function () {
+            $("#container").pager();
+        });
+</script>
+
+
+@{ string ctrl = ViewContext.RouteData.Values["controller"].ToString(); }
+
+<div style="width:1200px; margin-left:auto; margin-right:auto;">
+
+    <div class="pure-menu pure-menu-horizontal">
+        <a class="pure-menu-heading" href="~/Store/Index"><img src="~/images/PageOneLOGO1.jpg" style="width: 120px; height: 40px;" alt="PageOne" /></a>
+        <ul class="pure-menu-list">
+            <li class="pure-menu-item pure-menu-selected">
+                <a href="~/Store/Index" class="pure-menu-link">首页</a>
+            </li>
+            <li class="pure-menu-item">
+                <a href="~/Shopping/Index" class="pure-menu-link">个人中心</a>
+            </li>
+            @if (Session["username"] != null)
+            {
+                <li class="pure-menu-item">
+                    <a href="~/Store/outload">退出登录</a>
+                </li>
+            }
+            else
+            {
+                <li class="pure-menu-item">
+                    <a href="~/UserLogin/Login">登录</a>
+                </li>
+            }
+        </ul>
+    </div>
+</div>
+<style type="text/css">
+    body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 20px;
+        background-color: #F7F7F7;
+        /*  background-image: url('/images//backgroud.jpg')*/
+    }
+
+    .book-introduce {
+        display: flex;
+    }
+
+    .p1 {
+        font-style: italic;
+    }
+
+    .h2 {
+        font-size: 14px;
+        margin: 0 0 10px;
+        color: #888;
+    }
+
+    .book-details {
+        display: flex;
+        align-items: center;
+        margin-top: 70px;
+        padding: 50px;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    }
+
+    .book-cover {
+        max-width: auto;
+        height: auto;
+        margin-left: 150px;
+    }
+
+    .img {
+        height: auto;
+        width: auto;
+    }
+
+    .cover-box {
+        background-color: white;
+        width: auto;
+        height: auto;
+    }
+
+    .blank {
+        margin-top: 10px;
+        padding: 10px;
+    }
+
+    .book-info {
+        margin-left: 150px;
+        overflow: hidden;
+    }
+
+        .book-info p {
+            margin: 0 0 5px;
+        }
+
+        .book-info .description {
+            font-weight: bold;
+            color: black;
+        }
+
+    .price {
+        font-weight: bolder;
+        color: lightcoral;
+        font-size: xx-large;
+    }
+
+    .font {
+        font-style: italic;
+        /*  word-wrap: break-word;
+                overflow-wrap: break-word;*/
+    }
+
+    .font-text {
+        font-weight: bolder;
+        color: black;
+        font-size: larger;
+    }
+
+    .shoppingcart {
+        padding: 10px 20px;
+        background-color: lightcoral;
+        border-radius: 5px;
+        font-size: 24px;
+        color: white; /* 添加字体颜色 */
+        text-decoration: none; /* 去除链接的下划线 */
+        display: inline-block;
+        width: 400px;
+        height: auto;
+        text-align: center;
+    }
+
+    .shoppingcart-2 {
+        padding: 10px 20px;
+        background-color: lightcoral;
+        border-radius: 5px;
+        font-size: 24px;
+        color: white; /* 添加字体颜色 */
+        text-decoration: none; /* 去除链接的下划线 */
+        display: inline-block;
+        width: 400px;
+        height: auto;
+        text-align: center;
+    }
+
+    .shoppingcart:hover {
+        background-color: red;
+    }
+
+    .shoppingcart-2:hover {
+        background-color: red;
+    }
+
+    .back-icon {
+        width: 80px;
+        height: 60px;
+        position: fixed;
+        top: 20px;
+        right: 20px;
+    }
+
+    #btnScrollToTop {
+        display: none;
+        position: fixed;
+        bottom: 20px;
+        right: 20px;
+        background-color: #333;
+        color: #fff;
+        border: none;
+        border-radius: 4px;
+        padding: 10px 20px;
+        cursor: pointer;
+    }
+
+        #btnScrollToTop:hover {
+            background-color: #555;
+        }
+
+    .bottom {
+        position: fixed;
+        margin-bottom: 20px;
+    }
+</style>
+
+
+<body>
+    <div class="book-details">
+        <div class="book-cover">
+            <div class="cover-box">
+                <img src="@Model.surfacePic" alt="Book Cover" class="img" />
+            </div>
+            <div>
+                <p style="font-weight:bold">温馨提示</p>
+                <ul>
+                    <li>支持7天无理由退货（一次性包装破损不支持）</li>
+                    <li>请根据产品说明书进行使用</li>
+                </ul>
+            </div>
+        </div>
+        <div class="book-info">
+            <p><span class="description">ISBN:</span><span class="font-text">@Model.isbnNO</span></p>
+            <p><span class="description">价格:</span><span class="price">@Model.price</span></p>
+            <p><span class="description">出版日期:</span><span class="font-text">@Model.pressDate</span></p>
+            <p><p class="description">作者简介:</p><span class="font">@Html.Raw(Model.authorIntroduce)</span></p>
+            <p class="description">图书简介:</p><span class="font">@Html.Raw(Model.bookIntroduce)</span>
+            <p><span class="description">图书目录:</span>@Html.Raw(Model.bookDirectory)</p>
+            <p><span class="description">库存量:</span>@Html.Raw(Model.stockSum)</p>
+            <p><span class="description">已售:</span>@Html.Raw(Model.sellSum)</p>
+
+            <div class="blank"></div>
+            <div class="shoppingcart">
+                <a href="~/Store/AddCart"><span style="color:white">加入购物车</span></a>
+            </div>
+            <div class="blank"></div>
+            <div class="shoppingcart-2">
+                <a href="~/Store/Buy"><span style="color:white">立即购买</span></a>
+            </div>
+        </div>
+    </div>
+    <a href="~/Store/Index"><img src="~/images/back.jpg" class="back-icon" /></a>
+    <img src="~/images/123.png" alt="bottom图片" style="margin-left:-140px;" />
+</body>
+
+<button id="btnScrollToTop" onclick="scrollToTop()">返回顶部</button>
+
+
+
+<script>
+            window.onscroll = function () {
+                scrollFunction();
+            };
+
+            function scrollFunction() {
+                if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+                    document.getElementById("btnScrollToTop").style.display = "block";
+                } else {
+                    document.getElementById("btnScrollToTop").style.display = "none";
+                }
+            }
+
+            function scrollToTop() {
+                document.body.scrollTop = 0; // For Safari
+                document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
+            }
+
+</script>

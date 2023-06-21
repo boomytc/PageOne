@@ -1,0 +1,26 @@
+2023-06-14 14:45:02.3220 Error 类型“db.bks_Customer”的关联元数据类型包含以下未知属性或字段: customerName, telephone。请确保这些成员的名称与主类型上的属性的名称匹配。
+------------begin-------------
+   在 System.ComponentModel.DataAnnotations.AssociatedMetadataTypeTypeDescriptor.TypeDescriptorCache.CheckAssociatedMetadataType(Type mainType, Type associatedMetadataType)
+   在 System.ComponentModel.DataAnnotations.AssociatedMetadataTypeTypeDescriptor.TypeDescriptorCache.ValidateMetadataType(Type type, Type associatedType)
+   在 System.ComponentModel.DataAnnotations.AssociatedMetadataTypeTypeDescriptor..ctor(ICustomTypeDescriptor parent, Type type, Type associatedMetadataType)
+   在 System.ComponentModel.DataAnnotations.AssociatedMetadataTypeTypeDescriptionProvider.GetTypeDescriptor(Type objectType, Object instance)
+   在 System.ComponentModel.TypeDescriptionProvider.GetTypeDescriptor(Type objectType)
+   在 System.Data.Entity.ModelConfiguration.Utilities.AttributeProvider.GetTypeDescriptor(Type type)
+   在 System.Data.Entity.ModelConfiguration.Utilities.AttributeProvider.<GetAttributes>b__3_0(PropertyInfo pi)
+   在 System.Collections.Concurrent.ConcurrentDictionary`2.GetOrAdd(TKey key, Func`2 valueFactory)
+   在 System.Data.Entity.ModelConfiguration.Utilities.AttributeProvider.GetAttributes(PropertyInfo propertyInfo)
+   在 System.Data.Entity.Internal.Validation.EntityValidatorBuilder.BuildPropertyValidator(PropertyInfo clrProperty, EdmProperty edmProperty, Boolean buildFacetValidators)
+   在 System.Data.Entity.Internal.Validation.EntityValidatorBuilder.BuildValidatorsForProperties(IEnumerable`1 clrProperties, IEnumerable`1 edmProperties, IEnumerable`1 navigationProperties)
+   在 System.Data.Entity.Internal.Validation.EntityValidatorBuilder.BuildTypeValidator[T](Type clrType, IEnumerable`1 edmProperties, IEnumerable`1 navigationProperties, Func`3 validatorFactoryFunc)
+   在 System.Data.Entity.Internal.Validation.EntityValidatorBuilder.BuildEntityValidator(InternalEntityEntry entityEntry)
+   在 System.Data.Entity.Internal.Validation.ValidationProvider.GetEntityValidator(InternalEntityEntry entityEntry)
+   在 System.Data.Entity.Internal.InternalEntityEntry.GetValidationResult(IDictionary`2 items)
+   在 System.Data.Entity.DbContext.ValidateEntity(DbEntityEntry entityEntry, IDictionary`2 items)
+   在 System.Data.Entity.DbContext.GetValidationErrors()
+   在 System.Data.Entity.Internal.InternalContext.SaveChanges()
+   在 System.Data.Entity.Internal.LazyInternalContext.SaveChanges()
+   在 System.Data.Entity.DbContext.SaveChanges()
+   在 db.bll.bks_Customer.insert(String username, String password, String email, dbEntities dc) 位置 d:\大三课程设计\PageOne\code\dbLibrary\bll\customer\bks_Customer.cs:行号 71
+   在 web.Controllers.UserLoginController.Register(String username, String password, String emailaddress) 位置 d:\大三课程设计\PageOne\code\webSite\Controllers\UserLoginController.cs:行号 71
+------------End-------------
+ 

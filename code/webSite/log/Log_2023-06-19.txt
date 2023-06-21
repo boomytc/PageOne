@@ -1,0 +1,365 @@
+2023-06-19 11:21:06.9093 Error 对一个或多个实体的验证失败。有关详细信息，请参阅“EntityValidationErrors”属性。
+------------begin-------------
+   在 System.Data.Entity.Internal.InternalContext.SaveChanges()
+   在 db.bll.bks_CustomerAddress.insert(bks_CustomerAddress entry, dbEntities dc) 位置 G:\大三下学期\综合项目课程设计\PageOne本地操作版\code\dbLibrary\bll\customer\bks_CustomerAddress.cs:行号 60
+   在 web.Controllers.AddressController.Insert(bks_CustomerAddress model) 位置 G:\大三下学期\综合项目课程设计\PageOne本地操作版\code\WebSite\Controllers\AddressController.cs:行号 37
+------------End-------------
+ 
+2023-06-19 11:21:14.6896 Error 对一个或多个实体的验证失败。有关详细信息，请参阅“EntityValidationErrors”属性。
+------------begin-------------
+   在 System.Data.Entity.Internal.InternalContext.SaveChanges()
+   在 db.bll.bks_CustomerAddress.insert(bks_CustomerAddress entry, dbEntities dc) 位置 G:\大三下学期\综合项目课程设计\PageOne本地操作版\code\dbLibrary\bll\customer\bks_CustomerAddress.cs:行号 60
+   在 web.Controllers.AddressController.Insert(bks_CustomerAddress model) 位置 G:\大三下学期\综合项目课程设计\PageOne本地操作版\code\WebSite\Controllers\AddressController.cs:行号 37
+------------End-------------
+ 
+2023-06-19 11:23:25.9984 Error 对一个或多个实体的验证失败。有关详细信息，请参阅“EntityValidationErrors”属性。
+------------begin-------------
+   在 System.Data.Entity.Internal.InternalContext.SaveChanges()
+   在 db.bll.bks_CustomerAddress.insert(bks_CustomerAddress entry, dbEntities dc) 位置 G:\大三下学期\综合项目课程设计\PageOne本地操作版\code\dbLibrary\bll\customer\bks_CustomerAddress.cs:行号 59
+   在 web.Controllers.AddressController.Insert(bks_CustomerAddress model) 位置 G:\大三下学期\综合项目课程设计\PageOne本地操作版\code\WebSite\Controllers\AddressController.cs:行号 37
+------------End-------------
+ 
+2023-06-19 13:29:18.4812 Error 对一个或多个实体的验证失败。有关详细信息，请参阅“EntityValidationErrors”属性。
+------------begin-------------
+   在 System.Data.Entity.Internal.InternalContext.SaveChanges()
+   在 db.bll.bks_CustomerAddress.update(bks_CustomerAddress entry, dbEntities dc) 位置 G:\大三下学期\综合项目课程设计\PageOne本地操作版\code\dbLibrary\bll\customer\bks_CustomerAddress.cs:行号 81
+   在 web.Controllers.AddressController.Update(bks_CustomerAddress model, List`1 rowIDList, List`1 addressCodeList, List`1 customerCodeList, List`1 addressName) 位置 G:\大三下学期\综合项目课程设计\PageOne本地操作版\code\WebSite\Controllers\AddressController.cs:行号 71
+------------End-------------
+ 
+2023-06-19 13:29:23.9154 Error 对一个或多个实体的验证失败。有关详细信息，请参阅“EntityValidationErrors”属性。
+------------begin-------------
+   在 System.Data.Entity.Internal.InternalContext.SaveChanges()
+   在 db.bll.bks_CustomerAddress.update(bks_CustomerAddress entry, dbEntities dc) 位置 G:\大三下学期\综合项目课程设计\PageOne本地操作版\code\dbLibrary\bll\customer\bks_CustomerAddress.cs:行号 81
+   在 web.Controllers.AddressController.Update(bks_CustomerAddress model, List`1 rowIDList, List`1 addressCodeList, List`1 customerCodeList, List`1 addressName) 位置 G:\大三下学期\综合项目课程设计\PageOne本地操作版\code\WebSite\Controllers\AddressController.cs:行号 71
+------------End-------------
+ 
+2023-06-19 13:36:50.3569 Error 对一个或多个实体的验证失败。有关详细信息，请参阅“EntityValidationErrors”属性。
+------------begin-------------
+   在 System.Data.Entity.Internal.InternalContext.SaveChanges()
+   在 db.bll.bks_CustomerAddress.update(bks_CustomerAddress entry, dbEntities dc) 位置 G:\大三下学期\综合项目课程设计\PageOne本地操作版\code\dbLibrary\bll\customer\bks_CustomerAddress.cs:行号 81
+   在 web.Controllers.AddressController.Update(bks_CustomerAddress model) 位置 G:\大三下学期\综合项目课程设计\PageOne本地操作版\code\WebSite\Controllers\AddressController.cs:行号 71
+------------End-------------
+ 
+2023-06-19 13:59:09.8264 Error 对一个或多个实体的验证失败。有关详细信息，请参阅“EntityValidationErrors”属性。
+------------begin-------------
+   在 System.Data.Entity.Internal.InternalContext.SaveChanges()
+   在 db.bll.bks_CustomerAddress.update(bks_CustomerAddress entry, dbEntities dc) 位置 G:\大三下学期\综合项目课程设计\PageOne本地操作版\code\dbLibrary\bll\customer\bks_CustomerAddress.cs:行号 84
+   在 web.Controllers.AddressController.Update(String rowID, bks_CustomerAddress model) 位置 G:\大三下学期\综合项目课程设计\PageOne本地操作版\code\WebSite\Controllers\AddressController.cs:行号 71
+------------End-------------
+ 
+2023-06-19 14:04:56.4844 Error 存储区更新、插入或删除语句影响到了意外的行数(0)。实体在加载后可能被修改或删除。有关了解和处理乐观并发异常的信息，请参阅 http://go.microsoft.com/fwlink/?LinkId=472540。
+------------begin-------------
+   在 System.Data.Entity.Internal.InternalContext.SaveChanges()
+   在 db.bll.bks_CustomerAddress.update(bks_CustomerAddress entry, dbEntities dc) 位置 G:\大三下学期\综合项目课程设计\PageOne本地操作版\code\dbLibrary\bll\customer\bks_CustomerAddress.cs:行号 84
+   在 web.Controllers.AddressController.Update(String rowID, bks_CustomerAddress model) 位置 G:\大三下学期\综合项目课程设计\PageOne本地操作版\code\WebSite\Controllers\AddressController.cs:行号 71
+------------End-------------
+ 
+2023-06-19 14:04:56.4914 Error 存储区更新、插入或删除语句影响到了意外的行数(0)。实体在加载后可能被修改或删除。有关了解和处理乐观并发异常的信息，请参阅 http://go.microsoft.com/fwlink/?LinkId=472540。
+------------begin-------------
+   在 System.Data.Entity.Core.Mapping.Update.Internal.UpdateTranslator.ValidateRowsAffected(Int64 rowsAffected, UpdateCommand source)
+   在 System.Data.Entity.Core.Mapping.Update.Internal.UpdateTranslator.Update()
+   在 System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   在 System.Data.Entity.Core.Objects.ObjectContext.SaveChangesToStore(SaveOptions options, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction)
+   在 System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.Execute[TResult](Func`1 operation)
+   在 System.Data.Entity.Core.Objects.ObjectContext.SaveChangesInternal(SaveOptions options, Boolean executeInExistingTransaction)
+   在 System.Data.Entity.Internal.InternalContext.SaveChanges()
+------------End-------------
+ 
+2023-06-19 14:05:35.9779 Error 存储区更新、插入或删除语句影响到了意外的行数(0)。实体在加载后可能被修改或删除。有关了解和处理乐观并发异常的信息，请参阅 http://go.microsoft.com/fwlink/?LinkId=472540。
+------------begin-------------
+   在 System.Data.Entity.Internal.InternalContext.SaveChanges()
+   在 db.bll.bks_CustomerAddress.update(bks_CustomerAddress entry, dbEntities dc) 位置 G:\大三下学期\综合项目课程设计\PageOne本地操作版\code\dbLibrary\bll\customer\bks_CustomerAddress.cs:行号 84
+   在 web.Controllers.AddressController.Update(bks_CustomerAddress model) 位置 G:\大三下学期\综合项目课程设计\PageOne本地操作版\code\WebSite\Controllers\AddressController.cs:行号 71
+------------End-------------
+ 
+2023-06-19 14:05:35.9859 Error 存储区更新、插入或删除语句影响到了意外的行数(0)。实体在加载后可能被修改或删除。有关了解和处理乐观并发异常的信息，请参阅 http://go.microsoft.com/fwlink/?LinkId=472540。
+------------begin-------------
+   在 System.Data.Entity.Core.Mapping.Update.Internal.UpdateTranslator.ValidateRowsAffected(Int64 rowsAffected, UpdateCommand source)
+   在 System.Data.Entity.Core.Mapping.Update.Internal.UpdateTranslator.Update()
+   在 System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   在 System.Data.Entity.Core.Objects.ObjectContext.SaveChangesToStore(SaveOptions options, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction)
+   在 System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.Execute[TResult](Func`1 operation)
+   在 System.Data.Entity.Core.Objects.ObjectContext.SaveChangesInternal(SaveOptions options, Boolean executeInExistingTransaction)
+   在 System.Data.Entity.Internal.InternalContext.SaveChanges()
+------------End-------------
+ 
+2023-06-19 14:10:51.6713 Error 存储区更新、插入或删除语句影响到了意外的行数(0)。实体在加载后可能被修改或删除。有关了解和处理乐观并发异常的信息，请参阅 http://go.microsoft.com/fwlink/?LinkId=472540。
+------------begin-------------
+   在 System.Data.Entity.Internal.InternalContext.SaveChanges()
+   在 db.bll.bks_CustomerAddress.update(bks_CustomerAddress entry, dbEntities dc) 位置 G:\大三下学期\综合项目课程设计\PageOne本地操作版\code\dbLibrary\bll\customer\bks_CustomerAddress.cs:行号 84
+   在 web.Controllers.AddressController.Update(bks_CustomerAddress model) 位置 G:\大三下学期\综合项目课程设计\PageOne本地操作版\code\WebSite\Controllers\AddressController.cs:行号 71
+------------End-------------
+ 
+2023-06-19 14:10:51.6783 Error 存储区更新、插入或删除语句影响到了意外的行数(0)。实体在加载后可能被修改或删除。有关了解和处理乐观并发异常的信息，请参阅 http://go.microsoft.com/fwlink/?LinkId=472540。
+------------begin-------------
+   在 System.Data.Entity.Core.Mapping.Update.Internal.UpdateTranslator.ValidateRowsAffected(Int64 rowsAffected, UpdateCommand source)
+   在 System.Data.Entity.Core.Mapping.Update.Internal.UpdateTranslator.Update()
+   在 System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   在 System.Data.Entity.Core.Objects.ObjectContext.SaveChangesToStore(SaveOptions options, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction)
+   在 System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.Execute[TResult](Func`1 operation)
+   在 System.Data.Entity.Core.Objects.ObjectContext.SaveChangesInternal(SaveOptions options, Boolean executeInExistingTransaction)
+   在 System.Data.Entity.Internal.InternalContext.SaveChanges()
+------------End-------------
+ 
+2023-06-19 14:11:34.3135 Error 存储区更新、插入或删除语句影响到了意外的行数(0)。实体在加载后可能被修改或删除。有关了解和处理乐观并发异常的信息，请参阅 http://go.microsoft.com/fwlink/?LinkId=472540。
+------------begin-------------
+   在 System.Data.Entity.Internal.InternalContext.SaveChanges()
+   在 db.bll.bks_CustomerAddress.update(bks_CustomerAddress entry, dbEntities dc) 位置 G:\大三下学期\综合项目课程设计\PageOne本地操作版\code\dbLibrary\bll\customer\bks_CustomerAddress.cs:行号 84
+   在 web.Controllers.AddressController.Update(bks_CustomerAddress model) 位置 G:\大三下学期\综合项目课程设计\PageOne本地操作版\code\WebSite\Controllers\AddressController.cs:行号 71
+------------End-------------
+ 
+2023-06-19 14:11:34.3135 Error 存储区更新、插入或删除语句影响到了意外的行数(0)。实体在加载后可能被修改或删除。有关了解和处理乐观并发异常的信息，请参阅 http://go.microsoft.com/fwlink/?LinkId=472540。
+------------begin-------------
+   在 System.Data.Entity.Core.Mapping.Update.Internal.UpdateTranslator.ValidateRowsAffected(Int64 rowsAffected, UpdateCommand source)
+   在 System.Data.Entity.Core.Mapping.Update.Internal.UpdateTranslator.Update()
+   在 System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   在 System.Data.Entity.Core.Objects.ObjectContext.SaveChangesToStore(SaveOptions options, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction)
+   在 System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.Execute[TResult](Func`1 operation)
+   在 System.Data.Entity.Core.Objects.ObjectContext.SaveChangesInternal(SaveOptions options, Boolean executeInExistingTransaction)
+   在 System.Data.Entity.Internal.InternalContext.SaveChanges()
+------------End-------------
+ 
+2023-06-19 14:12:04.8611 Error 存储区更新、插入或删除语句影响到了意外的行数(0)。实体在加载后可能被修改或删除。有关了解和处理乐观并发异常的信息，请参阅 http://go.microsoft.com/fwlink/?LinkId=472540。
+------------begin-------------
+   在 System.Data.Entity.Internal.InternalContext.SaveChanges()
+   在 db.bll.bks_CustomerAddress.update(bks_CustomerAddress entry, dbEntities dc) 位置 G:\大三下学期\综合项目课程设计\PageOne本地操作版\code\dbLibrary\bll\customer\bks_CustomerAddress.cs:行号 84
+   在 web.Controllers.AddressController.Update(bks_CustomerAddress model) 位置 G:\大三下学期\综合项目课程设计\PageOne本地操作版\code\WebSite\Controllers\AddressController.cs:行号 71
+------------End-------------
+ 
+2023-06-19 14:12:04.8621 Error 存储区更新、插入或删除语句影响到了意外的行数(0)。实体在加载后可能被修改或删除。有关了解和处理乐观并发异常的信息，请参阅 http://go.microsoft.com/fwlink/?LinkId=472540。
+------------begin-------------
+   在 System.Data.Entity.Core.Mapping.Update.Internal.UpdateTranslator.ValidateRowsAffected(Int64 rowsAffected, UpdateCommand source)
+   在 System.Data.Entity.Core.Mapping.Update.Internal.UpdateTranslator.Update()
+   在 System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   在 System.Data.Entity.Core.Objects.ObjectContext.SaveChangesToStore(SaveOptions options, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction)
+   在 System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.Execute[TResult](Func`1 operation)
+   在 System.Data.Entity.Core.Objects.ObjectContext.SaveChangesInternal(SaveOptions options, Boolean executeInExistingTransaction)
+   在 System.Data.Entity.Internal.InternalContext.SaveChanges()
+------------End-------------
+ 
+2023-06-19 14:29:02.2981 Error 存储区更新、插入或删除语句影响到了意外的行数(0)。实体在加载后可能被修改或删除。有关了解和处理乐观并发异常的信息，请参阅 http://go.microsoft.com/fwlink/?LinkId=472540。
+------------begin-------------
+   在 System.Data.Entity.Internal.InternalContext.SaveChanges()
+   在 db.bll.bks_CustomerAddress.update(bks_CustomerAddress entry, dbEntities dc) 位置 G:\大三下学期\综合项目课程设计\PageOne本地操作版\code\dbLibrary\bll\customer\bks_CustomerAddress.cs:行号 84
+   在 web.Controllers.AddressController.Update(bks_CustomerAddress model) 位置 G:\大三下学期\综合项目课程设计\PageOne本地操作版\code\WebSite\Controllers\AddressController.cs:行号 71
+------------End-------------
+ 
+2023-06-19 14:29:02.3051 Error 存储区更新、插入或删除语句影响到了意外的行数(0)。实体在加载后可能被修改或删除。有关了解和处理乐观并发异常的信息，请参阅 http://go.microsoft.com/fwlink/?LinkId=472540。
+------------begin-------------
+   在 System.Data.Entity.Core.Mapping.Update.Internal.UpdateTranslator.ValidateRowsAffected(Int64 rowsAffected, UpdateCommand source)
+   在 System.Data.Entity.Core.Mapping.Update.Internal.UpdateTranslator.Update()
+   在 System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   在 System.Data.Entity.Core.Objects.ObjectContext.SaveChangesToStore(SaveOptions options, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction)
+   在 System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.Execute[TResult](Func`1 operation)
+   在 System.Data.Entity.Core.Objects.ObjectContext.SaveChangesInternal(SaveOptions options, Boolean executeInExistingTransaction)
+   在 System.Data.Entity.Internal.InternalContext.SaveChanges()
+------------End-------------
+ 
+2023-06-19 22:57:44.9867 Error “，”附近有语法错误。
+------------begin-------------
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 Dapper.SqlMapper.ExecuteCommand(IDbConnection cnn, CommandDefinition& command, Action`2 paramReader)
+   在 Dapper.SqlMapper.ExecuteImpl(IDbConnection cnn, CommandDefinition& command)
+   在 Dapper.SqlMapper.Execute(IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Nullable`1 commandTimeout, Nullable`1 commandType)
+   在 db.efHelper.Execute(String cmdText, Object param, CommandType type) 位置 G:\大三下学期\综合项目课程设计\PageOne本地操作版\code\dbLibrary\lib\db\efHelper.cs:行号 208
+   在 db.bll.bks_OrderInfo.generate(String keyFieldValues, String addressCode, String customerCode, DateTime orderDate, Decimal totalPrice, dbEntities dc) 位置 G:\大三下学期\综合项目课程设计\PageOne本地操作版\code\dbLibrary\bll\customer\bks_OrderInfo.cs:行号 72
+------------End-------------
+ 
+2023-06-19 22:57:45.0137 Error “，”附近有语法错误。
+------------begin-------------
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 Dapper.SqlMapper.ExecuteCommand(IDbConnection cnn, CommandDefinition& command, Action`2 paramReader)
+   在 Dapper.SqlMapper.ExecuteImpl(IDbConnection cnn, CommandDefinition& command)
+   在 Dapper.SqlMapper.Execute(IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Nullable`1 commandTimeout, Nullable`1 commandType)
+   在 db.efHelper.Execute(String cmdText, Object param, CommandType type) 位置 G:\大三下学期\综合项目课程设计\PageOne本地操作版\code\dbLibrary\lib\db\efHelper.cs:行号 208
+   在 db.bll.bks_OrderInfo.generate(String keyFieldValues, String addressCode, String customerCode, DateTime orderDate, Decimal totalPrice, dbEntities dc) 位置 G:\大三下学期\综合项目课程设计\PageOne本地操作版\code\dbLibrary\bll\customer\bks_OrderInfo.cs:行号 72
+------------End-------------
+ 
+2023-06-19 22:59:52.9039 Error “，”附近有语法错误。
+------------begin-------------
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 Dapper.SqlMapper.ExecuteCommand(IDbConnection cnn, CommandDefinition& command, Action`2 paramReader)
+   在 Dapper.SqlMapper.ExecuteImpl(IDbConnection cnn, CommandDefinition& command)
+   在 Dapper.SqlMapper.Execute(IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Nullable`1 commandTimeout, Nullable`1 commandType)
+   在 db.efHelper.Execute(String cmdText, Object param, CommandType type) 位置 G:\大三下学期\综合项目课程设计\PageOne本地操作版\code\dbLibrary\lib\db\efHelper.cs:行号 208
+   在 db.bll.bks_OrderInfo.generate(String keyFieldValues, String addressCode, String customerCode, DateTime orderDate, Decimal totalPrice, dbEntities dc) 位置 G:\大三下学期\综合项目课程设计\PageOne本地操作版\code\dbLibrary\bll\customer\bks_OrderInfo.cs:行号 72
+------------End-------------
+ 
+2023-06-19 22:59:52.9309 Error “，”附近有语法错误。
+------------begin-------------
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 Dapper.SqlMapper.ExecuteCommand(IDbConnection cnn, CommandDefinition& command, Action`2 paramReader)
+   在 Dapper.SqlMapper.ExecuteImpl(IDbConnection cnn, CommandDefinition& command)
+   在 Dapper.SqlMapper.Execute(IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Nullable`1 commandTimeout, Nullable`1 commandType)
+   在 db.efHelper.Execute(String cmdText, Object param, CommandType type) 位置 G:\大三下学期\综合项目课程设计\PageOne本地操作版\code\dbLibrary\lib\db\efHelper.cs:行号 208
+   在 db.bll.bks_OrderInfo.generate(String keyFieldValues, String addressCode, String customerCode, DateTime orderDate, Decimal totalPrice, dbEntities dc) 位置 G:\大三下学期\综合项目课程设计\PageOne本地操作版\code\dbLibrary\bll\customer\bks_OrderInfo.cs:行号 72
+------------End-------------
+ 
+2023-06-19 23:05:58.8394 Error “，”附近有语法错误。
+------------begin-------------
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 Dapper.SqlMapper.ExecuteCommand(IDbConnection cnn, CommandDefinition& command, Action`2 paramReader)
+   在 Dapper.SqlMapper.ExecuteImpl(IDbConnection cnn, CommandDefinition& command)
+   在 Dapper.SqlMapper.Execute(IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Nullable`1 commandTimeout, Nullable`1 commandType)
+   在 db.efHelper.Execute(String cmdText, Object param, CommandType type) 位置 G:\大三下学期\综合项目课程设计\PageOne本地操作版\code\dbLibrary\lib\db\efHelper.cs:行号 208
+   在 db.bll.bks_OrderInfo.generate(String keyFieldValues, String addressCode, String customerCode, DateTime orderDate, Decimal totalPrice, dbEntities dc) 位置 G:\大三下学期\综合项目课程设计\PageOne本地操作版\code\dbLibrary\bll\customer\bks_OrderInfo.cs:行号 72
+------------End-------------
+ 
+2023-06-19 23:05:58.8664 Error “，”附近有语法错误。
+------------begin-------------
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 Dapper.SqlMapper.ExecuteCommand(IDbConnection cnn, CommandDefinition& command, Action`2 paramReader)
+   在 Dapper.SqlMapper.ExecuteImpl(IDbConnection cnn, CommandDefinition& command)
+   在 Dapper.SqlMapper.Execute(IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Nullable`1 commandTimeout, Nullable`1 commandType)
+   在 db.efHelper.Execute(String cmdText, Object param, CommandType type) 位置 G:\大三下学期\综合项目课程设计\PageOne本地操作版\code\dbLibrary\lib\db\efHelper.cs:行号 208
+   在 db.bll.bks_OrderInfo.generate(String keyFieldValues, String addressCode, String customerCode, DateTime orderDate, Decimal totalPrice, dbEntities dc) 位置 G:\大三下学期\综合项目课程设计\PageOne本地操作版\code\dbLibrary\bll\customer\bks_OrderInfo.cs:行号 72
+------------End-------------
+ 
+2023-06-19 23:14:08.9461 Error “，”附近有语法错误。
+------------begin-------------
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 Dapper.SqlMapper.ExecuteCommand(IDbConnection cnn, CommandDefinition& command, Action`2 paramReader)
+   在 Dapper.SqlMapper.ExecuteImpl(IDbConnection cnn, CommandDefinition& command)
+   在 Dapper.SqlMapper.Execute(IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Nullable`1 commandTimeout, Nullable`1 commandType)
+   在 db.efHelper.Execute(String cmdText, Object param, CommandType type) 位置 G:\大三下学期\综合项目课程设计\PageOne本地操作版\code\dbLibrary\lib\db\efHelper.cs:行号 208
+   在 db.bll.bks_OrderInfo.generate(String keyFieldValues, String addressCode, String customerCode, DateTime orderDate, Decimal totalPrice, dbEntities dc) 位置 G:\大三下学期\综合项目课程设计\PageOne本地操作版\code\dbLibrary\bll\customer\bks_OrderInfo.cs:行号 72
+------------End-------------
+ 
+2023-06-19 23:14:08.9741 Error “，”附近有语法错误。
+------------begin-------------
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 Dapper.SqlMapper.ExecuteCommand(IDbConnection cnn, CommandDefinition& command, Action`2 paramReader)
+   在 Dapper.SqlMapper.ExecuteImpl(IDbConnection cnn, CommandDefinition& command)
+   在 Dapper.SqlMapper.Execute(IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Nullable`1 commandTimeout, Nullable`1 commandType)
+   在 db.efHelper.Execute(String cmdText, Object param, CommandType type) 位置 G:\大三下学期\综合项目课程设计\PageOne本地操作版\code\dbLibrary\lib\db\efHelper.cs:行号 208
+   在 db.bll.bks_OrderInfo.generate(String keyFieldValues, String addressCode, String customerCode, DateTime orderDate, Decimal totalPrice, dbEntities dc) 位置 G:\大三下学期\综合项目课程设计\PageOne本地操作版\code\dbLibrary\bll\customer\bks_OrderInfo.cs:行号 72
+------------End-------------
+ 
+2023-06-19 23:18:34.0258 Error 违反了 PRIMARY KEY 约束“PK__bks_Orde__23699D6991B2797A”。不能在对象“dbo.bks_OrderInfo”中插入重复键。重复键值为 (Od202306190001)。
+语句已终止。
+------------begin-------------
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 Dapper.SqlMapper.ExecuteCommand(IDbConnection cnn, CommandDefinition& command, Action`2 paramReader)
+   在 Dapper.SqlMapper.ExecuteImpl(IDbConnection cnn, CommandDefinition& command)
+   在 Dapper.SqlMapper.Execute(IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Nullable`1 commandTimeout, Nullable`1 commandType)
+   在 db.efHelper.Execute(String cmdText, Object param, CommandType type) 位置 G:\大三下学期\综合项目课程设计\PageOne本地操作版\code\dbLibrary\lib\db\efHelper.cs:行号 208
+   在 db.bll.bks_OrderInfo.generate(String keyFieldValues, String addressCode, String customerCode, DateTime orderDate, Decimal totalPrice, dbEntities dc) 位置 G:\大三下学期\综合项目课程设计\PageOne本地操作版\code\dbLibrary\bll\customer\bks_OrderInfo.cs:行号 72
+------------End-------------
+ 
+2023-06-19 23:19:24.7567 Error 违反了 PRIMARY KEY 约束“PK__bks_Orde__23699D6991B2797A”。不能在对象“dbo.bks_OrderInfo”中插入重复键。重复键值为 (Od202306190002)。
+语句已终止。
+------------begin-------------
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 Dapper.SqlMapper.ExecuteCommand(IDbConnection cnn, CommandDefinition& command, Action`2 paramReader)
+   在 Dapper.SqlMapper.ExecuteImpl(IDbConnection cnn, CommandDefinition& command)
+   在 Dapper.SqlMapper.Execute(IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Nullable`1 commandTimeout, Nullable`1 commandType)
+   在 db.efHelper.Execute(String cmdText, Object param, CommandType type) 位置 G:\大三下学期\综合项目课程设计\PageOne本地操作版\code\dbLibrary\lib\db\efHelper.cs:行号 208
+   在 db.bll.bks_OrderInfo.generate(String keyFieldValues, String addressCode, String customerCode, DateTime orderDate, Decimal totalPrice, dbEntities dc) 位置 G:\大三下学期\综合项目课程设计\PageOne本地操作版\code\dbLibrary\bll\customer\bks_OrderInfo.cs:行号 72
+------------End-------------
+ 
+2023-06-19 23:26:43.6641 Error 不能将值 NULL 插入列 'orderCode'，表 'ruiMvcFramework.dbo.bks_OrderInfo'；列不允许有 Null 值。INSERT 失败。
+语句已终止。
+------------begin-------------
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 Dapper.SqlMapper.ExecuteCommand(IDbConnection cnn, CommandDefinition& command, Action`2 paramReader)
+   在 Dapper.SqlMapper.ExecuteImpl(IDbConnection cnn, CommandDefinition& command)
+   在 Dapper.SqlMapper.Execute(IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Nullable`1 commandTimeout, Nullable`1 commandType)
+   在 db.efHelper.Execute(String cmdText, Object param, CommandType type) 位置 G:\大三下学期\综合项目课程设计\PageOne本地操作版\code\dbLibrary\lib\db\efHelper.cs:行号 208
+   在 db.bll.bks_OrderInfo.generate(bks_OrderInfo entry, String keyFieldValues, String addressCode, String customerCode, DateTime orderDate, Decimal totalPrice, dbEntities dc) 位置 G:\大三下学期\综合项目课程设计\PageOne本地操作版\code\dbLibrary\bll\customer\bks_OrderInfo.cs:行号 78
+------------End-------------
+ 
+2023-06-19 23:35:19.1048 Error 违反了 PRIMARY KEY 约束“PK__bks_Orde__23699D6991B2797A”。不能在对象“dbo.bks_OrderInfo”中插入重复键。重复键值为 (Od202306190002)。
+语句已终止。
+------------begin-------------
+   在 System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   在 System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   在 System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   在 System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   在 System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 Dapper.SqlMapper.ExecuteCommand(IDbConnection cnn, CommandDefinition& command, Action`2 paramReader)
+   在 Dapper.SqlMapper.ExecuteImpl(IDbConnection cnn, CommandDefinition& command)
+   在 Dapper.SqlMapper.Execute(IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Nullable`1 commandTimeout, Nullable`1 commandType)
+   在 db.efHelper.Execute(String cmdText, Object param, CommandType type) 位置 G:\大三下学期\综合项目课程设计\PageOne本地操作版\code\dbLibrary\lib\db\efHelper.cs:行号 208
+   在 db.bll.bks_OrderInfo.generate(String keyFieldValues, String addressCode, String customerCode, DateTime orderDate, Decimal totalPrice, dbEntities dc) 位置 G:\大三下学期\综合项目课程设计\PageOne本地操作版\code\dbLibrary\bll\customer\bks_OrderInfo.cs:行号 72
+------------End-------------
+ 

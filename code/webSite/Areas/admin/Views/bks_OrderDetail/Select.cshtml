@@ -1,0 +1,34 @@
+﻿@model db.view.bks_OrderDetail
+
+@{
+    ViewBag.Title = "Select";
+}
+
+
+<style type="text/css">
+</style>
+<script type="text/javascript">
+    //刷新当前页面的数据
+    function refleshData(exeCountSql) {
+        $("#container").pager("reflesh", exeCountSql);
+    }
+    //初始化分页
+    $(function () {
+        $("#container").pager();
+    });
+</script>
+
+@{ string ctrl = ViewContext.RouteData.Values["controller"].ToString(); }
+<div class="container" id="container" data-width="@Model.PageWidth" data-url="/admin/bks_OrderDetail/Select">
+    <div class="search">
+        <span>@Html.HiddenFor(a => a.orderCode)</span>
+        <span>@Html.HiddenFor(a => a.opMode)</span>
+    </div>
+
+    <div class="pager"></div>
+    <div class="showData cbxCol">
+        @{Html.RenderPartial("_ShowData" + Model.opMode);}
+    </div>
+</div>
+
+
