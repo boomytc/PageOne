@@ -1,0 +1,16 @@
+2023-06-19 11:54:57.2878 Error 索引超出范围。必须为非负值并小于集合大小。
+参数名: index
+------------begin-------------
+   在 System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   在 System.Collections.Generic.List`1.get_Item(Int32 index)
+   在 dbTools.frm列配置.btnInsert_Click(Object sender, EventArgs e) 位置 E:\Projecting\_MVC5开发框架 - 腾讯40\trunk\code\dbTools\frm列配置.cs:行号 201
+------------End-------------
+ 
+2023-06-19 11:55:09.6348 Error 索引超出范围。必须为非负值并小于集合大小。
+参数名: index
+------------begin-------------
+   在 System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   在 System.Collections.Generic.List`1.get_Item(Int32 index)
+   在 dbTools.frm列配置.btnInsert_Click(Object sender, EventArgs e) 位置 E:\Projecting\_MVC5开发框架 - 腾讯40\trunk\code\dbTools\frm列配置.cs:行号 201
+------------End-------------
+ 

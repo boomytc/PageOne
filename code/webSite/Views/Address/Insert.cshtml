@@ -1,0 +1,31 @@
+﻿@model db.bks_CustomerAddress
+
+@{
+    ViewBag.Title = "Insert";
+}
+
+@{
+    Layout = "~/Views/Shared/_LayoutLogin.cshtml";
+}
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary(true)
+
+    <div class="dialog">
+        <div class="editor-label">
+            @Html.LabelFor(model => model.addressName)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.addressName)
+            @Html.ValidationMessageFor(model => model.addressName)
+        </div>
+
+
+        <p class="button">
+            <a class="billSave opSave" data-close="true">保存</a>
+            <a class="opClose">关闭</a>
+        </p>
+    </div>
+}

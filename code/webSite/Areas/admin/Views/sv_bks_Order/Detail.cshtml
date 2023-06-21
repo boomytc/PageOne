@@ -1,0 +1,49 @@
+﻿@model db.view.sv_bks_Order
+
+@{
+	ViewBag.Title = "Detail";
+}
+
+
+<div class="dialog">
+    <div class="display-label">
+        @Html.DisplayNameFor(model => model.orderCode)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.orderCode)
+    </div>
+
+    <div class="display-label">
+        @Html.DisplayNameFor(model => model.customerCode)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.customerCode)
+    </div>
+    <div class="display-label">
+        @Html.DisplayNameFor(model => model.orderDate)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.orderDate)
+    </div>
+
+    <div class="display-label">
+        @Html.DisplayNameFor(model => model.bookCode)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.bookCode)
+    </div>
+
+    <div class="display-label">
+        @Html.DisplayNameFor(model => model.status)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.status)
+    </div>
+
+
+
+    <p class="button">
+        <a class="opClose">关闭</a>
+    </p>
+</div>
+

@@ -1,0 +1,97 @@
+﻿@*数据展示的公用视图*@
+@model db.client.view.bks_Books
+
+@section header
+{
+    <style type="text/css">
+        .p {
+            font-weight: bold;
+            color: blue;
+        }
+
+        #li {
+            color: orange;
+            font-size: larger;
+        }
+
+        .book-name {
+            font-weight: bold;
+            color: blue;
+            margin-bottom: 5px;
+        }
+
+        .price {
+            font-weight: bolder;
+            color: orange;
+            font-size: larger;
+        }
+
+        .book-image {
+            display: block;
+        }
+
+        .info-view {
+            background: #f6f9fb;
+            height: 108px;
+            overflow: hidden;
+            padding: 0 16px;
+            text-indent: 2em;
+        }
+
+        .bookName {
+            color: blue;
+            text-align: center;
+            font-weight: bolder;
+            margin-bottom: 5px;
+        }
+
+
+
+
+        .authors {
+            color: #6f6f6f;
+            font-size: 12px;
+            line-height: 14px;
+            margin-top: 4px;
+            overflow: hidden;
+            text-align: center;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+        }
+    </style>
+
+}
+
+@{ string ctrl = ViewContext.RouteData.Values["controller"].ToString(); }
+
+<input type="hidden" class="pagerinfo"
+       data-rowcount="@Model.RowCount"
+       data-pagesize="@Model.PageSize"
+       data-pageindex="@Model.PageIndex" data-pagecount="@Model.PageCount"
+       data-orderfield="@Model.OrderField" data-orderway="@Model.OrderWay" />
+<ul style="margin:10px;">
+
+    @for (int i = 0; i < Model.dataTable.Rows.Count; i++)
+    {
+        string rowID = Model.dataTable.Rows[i]["rowID"].ToString();
+        string keyCode = Model.dataTable.Rows[i][Model.keyField].ToString();
+        string bookCode = Model.dataTable.Rows[i]["bookCode"].ToString();
+
+        <li style="margin-right:30px;margin-bottom:30px;border:hidden;">
+            <div>
+                <a href="@Url.Action("Detail", "Store", new { BookCode=bookCode})">
+                    <img src="@Model.dataTable.Rows[i]["surfacePic"]" style="height:220px;width:180px;">
+                </a>
+
+            </div>
+            <div class="info-view">
+                <p class="bookName">
+                    @Model.dataTable.Rows[i]["bookName"]
+                </p>
+                <p class="authors">@Model.dataTable.Rows[i]["authorName"]</p>
+            </div>
+        </li>
+    }
+</ul>
+
+

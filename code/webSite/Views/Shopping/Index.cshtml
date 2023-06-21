@@ -1,0 +1,97 @@
+﻿@model db.client.view.bks_ShoppingTrolley
+
+@{
+    ViewBag.Title = "购物车";
+}
+
+<!DOCTYPE html>
+@{
+    Layout = "~/Views/Shared/_LayoutLogin.cshtml";
+}
+
+<html>
+<body>
+    <style type="text/css">
+    </style>
+    <script type="text/javascript">
+        //刷新当前页面的数据
+        function refleshData(exeCountSql) {
+            $("#container").pager("reflesh", exeCountSql);
+        }
+        //初始化分页
+        $(function () {
+            $("#container").pager();
+        });
+
+        $(document).ready(function () {
+            //文档加载后绑定批量修改操作
+            $(".Order").click(function () {
+                //获取修改后的图书类别编码
+                var addressCode = $(".addressCode").val();
+                if (isNotNull(addressCode)) {
+                    listBatchOp($(this), "addressCode=" + addressCode);
+                }
+                else {
+                    showInfo("必须选择收货地址")
+                }
+                return false;
+            });
+        });
+    </script>
+
+    @{ string ctrl = ViewContext.RouteData.Values["controller"].ToString(); }
+
+
+    <div style="width:1200px; margin-left:auto; margin-right:auto;">
+        @*顶部布局*@
+        <div class="pure-menu pure-menu-horizontal">
+            <a class="pure-menu-heading" href="~/Store/Index"><img src="~/images/PageOneLOGO1.jpg" style="width: 120px; height: 40px;" alt="PageOne" /></a>
+            <ul class="pure-menu-list">
+                <li class="pure-menu-item pure-menu-selected">
+                    <a href="~/Store/Index" class="pure-menu-link">首页</a>
+                </li>
+                <li class="pure-menu-item">
+                    <a href="~/Shopping/Index" class="pure-menu-link">个人中心</a>
+                </li>
+                @if (Session["username"] != null)
+                {
+                    <li class="pure-menu-item">
+                        <a href="~/Store/outload">退出登录</a>
+                    </li>
+                }
+                else
+                {
+                    <li class="pure-menu-item">
+                        <a href="~/UserLogin/Login">登录</a>
+                    </li>
+                }
+            </ul>
+        </div>
+
+        @*侧边信息分类布局*@
+        <div class="left" style="float:left; width:18%;">
+            @Html.Action("orderTypeNav", "Shopping")
+        </div>
+
+        <div class="right" style="float:right; width:80%;">
+            <div class="container" id="container" data-width="@Model.PageWidth" data-url="/Shopping/index">
+                <div class="search">
+                    <span>选择收货地址：@Html.DropDownListFor(a => a.addressCode, db.bll.bks_CustomerAddress.bindDdl(true), new { @class = "inputSelect addressCode" })</span>
+                </div>
+
+                <div class="toobar">
+                    @Html.ActionLink("下单", "Order", new { }, new { @class = "Order opBtn", data_msg = "确认下单?" })
+                </div>
+
+                <div class="pager"></div>
+                <div class="showData cbxCol" style="margin-top:50px;">
+                    @{Html.RenderPartial("_ShowData");}
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+</body>
+</html>
+

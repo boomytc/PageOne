@@ -1,0 +1,127 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>图书注册</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="~/Content/easyui1.8.6/themes/default/easyui.css" />
+    <link rel="stylesheet" type="text/css" href="~/Content/easyui1.8.6/themes/icon.css">
+    <link rel="stylesheet" type="text/css" href="~/Content/css/login.css" />
+    <script type="text/javascript">
+        window.history.replaceState(null, null, window.location.href);
+        $(document).ready(function () {
+            $('form').submit(function () {
+                if ($(this).data('submitted') === true) {
+                    // 防止重复提交
+                    return false;
+                } else {
+                    // 标记表单已提交
+                    $(this).data('submitted', true);
+                    // 禁用所有提交按钮
+                    $(':submit', this).attr('disabled', 'disabled');
+                    // 让表单正常提交
+                    return true;
+                }
+            });
+        });
+        function checkemail() {
+            var x = document.getElementById("emailadd").value;
+            if (x != null || x != "") {
+                document.getElementById('emailp1').innerHTML = "";
+                startTimer();
+            }
+            else {
+                document.getElementById("emailp1").innerHTML = "邮箱地址无效";
+            }
+        }
+        var timer;
+        function startTimer() {
+            var btn = document.getElementById("overc");
+            btn.disabled = true; // 禁用按钮
+            var count = 60;
+            timer = setInterval(function () {
+                count--;
+                if (count < 0) {
+                    clearInterval(timer);
+                    btn.disabled = false; // 启用按钮
+                    btn.innerHTML = "获取代码";
+                } else {
+                    btn.innerHTML = count + "秒后重新获取";
+                }
+            }, 1000);
+        }
+        var Emailreset;
+        function loadresettext() {
+            Emailreset = document.getElementById("emailadd").value;
+            document.getElementById("resetpwd").innerHTML = "为" + Emailreset + "操作";
+        }
+
+        //function isEmail(email) {
+        //    return /^((([a-z]|\d|[!#\$%&'\*\+\-\/=\?\^_`{\|}~]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])+(\.([a-z]|\d|[!#\$%&'\*\+\-\/=\?\^_`{\|}~]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])+)*)|((\x22)((((\x20|\x09)*(\x0d\x0a))?(\x20|\x09)+)?(([\x01-\x08\x0b\x0c\x0e-\x1f\x7f]|\x21|[\x23-\x5b]|[\x5d-\x7e]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])|(\\([\x01-\x09\x0b\x0c\x0d-\x7f]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]))))*(((\x20|\x09)*(\x0d\x0a))?(\x20|\x09)+)?(\x22)))@@((([a-z]|\d|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])|(([a-z]|\d|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])([a-z]|\d|-|\.|_|~|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])*([a-z]|\d|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])))\.)+(([a-z]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])|(([a-z]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])([a-z]|\d|-|\.|_|~|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])*([a-z]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])))$/i.test(email);
+        //}
+
+        function showresetform() {
+            document.getElementById('id02').style.display = 'block';
+            document.getElementById('loginForm').style.display = 'none';
+        }
+        function hiddresetform() {
+            document.getElementById('id02').style.display = 'none';
+            document.getElementById('loginForm').style.display = 'block';
+        }
+        function showregisterform() {
+            document.getElementById('id01').style.display = 'block';
+            document.getElementById('loginForm').style.display = 'none';
+        }
+
+        function hiddregisterform() {
+            document.getElementById('id01').style.display = 'none'; document.getElementById('registerform').reset();
+            document.getElementById('loginForm').style.display = "block";
+        }
+
+
+
+
+        function CheckPassword() {
+            var p1 = document.getElementById("psw1").value;
+            var p2 = document.getElementById("psw2").value;
+            if (p1 != p2) {
+                document.getElementById("psw2_repeat").innerHTML = "密码不一致";
+                document.getElementById("psw2_repeat").style.color = "red";
+                document.getElementById("registernew").disabled = false;
+            }
+            else {
+                document.getElementById("psw2_repeat").innerHTML = "密码一致";
+                document.getElementById("psw2_repeat").style.color = "green";
+            }
+        }
+
+    </script>
+</head>
+<body>
+ <div id="id01" class="modal">
+    <form class="modal-content animate" action="~/UserLogin/Register" method="post" id="registerform" oninput="this.value=this.value.replace(/\s+/g,'')">
+        <img src="~/Content/images/PageOneLOGO1.jpg" style="width:270px;height:73px;margin:0 45px;" />
+        <h1 style="text-align:center;">注册</h1>
+        <div class="container">
+            <input type="text" placeholder="用户名" name="username" required register="text">
+            <input type="password" placeholder="密码" name="password" required register="password" id="psw1">
+            <input type="password" placeholder="确认密码" name="psw-repeat" required register="password" id="psw2" onkeyup="CheckPassword()">
+            <p id="psw2_repeat" style="margin:0;padding:0;"></p>
+            <input type="email" id="emailadd" placeholder="电子邮件地址" name="emailaddress" required register="text">
+            <p id="emailp" style="margin:0;padding-bottom:5px;color:red;font-size:14px;"></p>
+            <input type="checkbox" checked="checked">记住我
+            <p>通过创建一个帐户，您同意我们的<a href="#">条款和隐私</a></p>
+            <div class="clearfix">
+                <button type="button" onclick="window.location='/UserLogin/Login';" class="cancelbtn">取消</button>
+                <button type="submit" class="signupbtn" id="registernew" style="background-color:#4CAF50;margin-left:10px;">注册</button>
+            </div>
+        </div>
+    </form>
+</div>
+
+</body>
+</html>
