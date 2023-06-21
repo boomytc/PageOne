@@ -1,6 +1,0 @@
-sys_Column
-rbac_Operation
-rbac_Module
-rbac_Resource
-rbac_ResourceOp
-prj_Config

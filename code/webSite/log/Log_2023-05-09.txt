@@ -1,7 +1,0 @@
-2023-05-09 22:51:44.9198 Error Validation failed for one or more entities. See 'EntityValidationErrors' property for more details.
-------------begin-------------
-   在 System.Data.Entity.Internal.InternalContext.SaveChanges()
-   在 db.bll.bks_bookStockDetail.insert(bks_BookStockDetail entry, dbEntities dc)
-   在 web.Areas.admin.Controllers.bks_BookStockDetailController.Insert(bks_BookStockDetail model) 位置 G:\大三下学期\.Net项目实训\2022版本\MVC5开发框架 - 给学生\code\WebSite\Areas\admin\Controllers\bks_BookStockDetailController.cs:行号 56
-------------End-------------
- 
